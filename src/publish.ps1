@@ -1,9 +1,10 @@
 $ErrorActionPreference="Stop"
 Set-StrictMode -Version Latest
+
+<#
 Import-Module "$PsScriptRoot\ConvertFrom-Markdig.psm1" -Force
 
 $outFolder = "$PsScriptRoot\..\docs\recipes"
-# read the file
 Get-ChildItem -Path "$PsScriptRoot\recipes" | ForEach-Object {
     $file = $_
     $outfile = "$outFolder\$($file.BaseName).html"
@@ -11,8 +12,5 @@ Get-ChildItem -Path "$PsScriptRoot\recipes" | ForEach-Object {
     Write-Host "Writing $outfile"
     (Get-Content $file -Raw) | ConvertFrom-MarkDig -UseDefinitionLists | Out-File $outfile
 }
-
-# convert to markdown
-
-
-# have a look at it
+#>
+.\build-index.ps1
