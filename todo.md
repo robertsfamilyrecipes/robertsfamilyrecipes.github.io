@@ -10,7 +10,8 @@ ToDo List
 * https://github.com/xoofx/markdig/tree/master
 [Done] Make Index page update
 * [Done] Last updated datetime on index.html
-[ToDo] Publish to pages  
+[InProgress] Make recipe page template
+* [ToDo] Set title
 
 [ToDo] What about line ending settings  
 [ToDo] What about editor config settings  
