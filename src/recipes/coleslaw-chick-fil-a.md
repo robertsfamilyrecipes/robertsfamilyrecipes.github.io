@@ -1,5 +1,11 @@
-
-## Coleslaw (Chick-fil-A)
+---
+title: Coleslaw (Chick-fil-A)
+serves: 4 as a side
+duration: 15 min
+tags: 
+- side
+createdDate: 2025-12-31
+---
 
 ### Ingredients
 

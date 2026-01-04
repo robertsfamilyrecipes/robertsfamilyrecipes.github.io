@@ -7,8 +7,6 @@ tags:
 createdDate: 2026-01-04
 ---
 
-## Salmon Pasta Salad
-
 ### Ingredients
 
 300g

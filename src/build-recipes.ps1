@@ -10,10 +10,11 @@ function Build-Article {
     )
 
     $outfile = "$TargetFolder\$($SourceFile.BaseName).html"
-    $recipe, $metadata = (Get-Content $SourceFile -Raw) | ConvertFrom-MarkDig
-    $html = $Template -replace '##Recipe##', $recipe
+    $html, $metadata = (Get-Content $SourceFile -Raw) | ConvertFrom-MarkDig
+    $outHtml = $Template -replace '##Recipe##', $html
+    $outHtml = $outHtml -replace '##Title##', $metadata.title
     Write-Host "Writing $outfile"
-    $html | Out-File -FilePath $outfile
+    $outHtml | Out-File -FilePath $outfile
 }
 
 $targetFolder = "$PsScriptRoot\..\docs\recipes"

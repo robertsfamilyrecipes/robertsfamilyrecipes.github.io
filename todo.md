@@ -9,12 +9,14 @@ ToDo List
 * https://github.com/gravejester/ConvertFrom-MarkDown
 * https://github.com/xoofx/markdig/tree/master
 * https://johnh.co/blog/a-crash-course-in-markdig
+* https://github.com/cloudbase/powershell-yaml
 [Done] Make Index page update
 * [Done] Last updated datetime on index.html
 [Done] Make recipe page template
 * [Done] Simplify Markdig Call
-* [InProgress] Set title
+* [Done] Set title
 * [ToDo] Index page html
+* [ToDo] Fill in other metadata
 
 [ToDo] What about line ending settings  
 [Done] What about editor config settings  

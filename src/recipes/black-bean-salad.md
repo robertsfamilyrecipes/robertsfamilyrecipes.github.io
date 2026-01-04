@@ -1,4 +1,11 @@
-## Black Bean Salad
+---
+title: Black Bean Salad
+serves: 4 as a side
+duration: 15 min
+tags: 
+- side
+createdDate: 2026-01-02
+---
 
 ### Ingredients
 
