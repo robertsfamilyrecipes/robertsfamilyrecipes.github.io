@@ -1,3 +1,12 @@
+---
+title: Salmon Pasta Salad
+serves: 4
+duration: 20 min
+tags:
+- pasta
+createdDate: 2026-01-04
+---
+
 ## Salmon Pasta Salad
 
 ### Ingredients

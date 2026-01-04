@@ -1,26 +1,6 @@
 $ErrorActionPreference="Stop"
 Set-StrictMode -Version Latest
-
-function ConvertFrom-MarkDig {
-    [CmdletBinding()]
-    [OutputType([String])]
-    param (
-        [Parameter(ValueFromPipeline, Mandatory=$true)]
-        [string] $MarkDown
-    )
-
-    # create a pipeline builder object
-    $pipelineBuilder = [MarkDig.MarkdownPipelineBuilder]::new()
-    [void][MarkDig.MarkdownExtensions]::UseAdvancedExtensions($pipelineBuilder)
-
-    # build the pipeline object
-    $pipeline = $pipelineBuilder.Build()
-
-    # convert to html
-    $outHtml = [MarkDig.Markdown]::ToHtml($MarkDown,$pipeline)
-
-    Write-Output $outHtml
-}
+Import-Module .\ConvertFrom-MarkDig.psm1
 
 function Build-Article {
     param (
@@ -30,7 +10,7 @@ function Build-Article {
     )
 
     $outfile = "$TargetFolder\$($SourceFile.BaseName).html"
-    $recipe = (Get-Content $SourceFile -Raw) | ConvertFrom-MarkDig
+    $recipe, $metadata = (Get-Content $SourceFile -Raw) | ConvertFrom-MarkDig
     $html = $Template -replace '##Recipe##', $recipe
     Write-Host "Writing $outfile"
     $html | Out-File -FilePath $outfile
