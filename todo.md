@@ -17,7 +17,7 @@ ToDo List
 * [ToDo] Index page html
 
 [ToDo] What about line ending settings  
-[ToDo] What about editor config settings  
+[Done] What about editor config settings  
 
 
 ```

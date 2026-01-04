@@ -1,5 +1,5 @@
 Import-Module Pester -PassThru
-Import-Module .\src\ConvertFrom-MarkDig.psm1 -Force
+Import-Module "$PsScriptRoot\..\src\ConvertFrom-MarkDig.psm1" -Force
 
 Describe 'ConvertFrom-MarkDig tests' {
     BeforeEach {
