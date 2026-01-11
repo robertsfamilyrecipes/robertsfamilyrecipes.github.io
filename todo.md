@@ -15,11 +15,12 @@ ToDo List
 [Done] Make recipe page template
 * [Done] Simplify Markdig Call
 * [Done] Set title
-* [ToDo] Index page html
-* [ToDo] Fill in other metadata
+* [Done] Index page html
+* [Done] Fill in other metadata
 
 [ToDo] Change to use 1/2, 1/4 etc.
 [ToDo] Css on the site
+[ToDo] Add instal to precommit
 [ToDo] Print layout
 [ToDo] Url in the footer?
 [ToDo] What about line ending settings  
