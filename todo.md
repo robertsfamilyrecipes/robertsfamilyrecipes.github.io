@@ -18,7 +18,7 @@ ToDo List
 * [Done] Index page html
 * [Done] Fill in other metadata
 
-[InProgress] Change to use 1/2, 1/4 etc.
+[Done] Change to use 1/2, 1/4 etc.
 [InProgress] Css on the site 
 [ToDo] Show cook time and serves
 [ToDo] Add instal to precommit
