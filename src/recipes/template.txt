@@ -11,6 +11,12 @@ createdDate:
 
 ** Rename to md
 
+&frac12;
+&frac14;
+&frac34;
+&deg;
+&nbsp;
+
 ### Ingredients
 
 amount

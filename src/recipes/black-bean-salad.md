@@ -30,10 +30,10 @@ createdDate: 2026-01-02
 2 tbsp
 :   olive oil
 
-1/2 tsp
+&frac12; tsp
 :   chilli powder
 
-1/2 tsp
+&frac12; tsp
 :   ground cumin
 
 ### Method

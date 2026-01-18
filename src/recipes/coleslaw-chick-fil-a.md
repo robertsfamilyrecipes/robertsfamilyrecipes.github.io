@@ -9,6 +9,12 @@ createdDate: 2025-12-31
 
 ### Ingredients
 
+&frac12;
+:   white cabbage, shredded
+
+1
+:   carrot, peeled and grated
+
 2 tsp
 :   vinegar
 
@@ -18,14 +24,8 @@ createdDate: 2025-12-31
 1 tsp
 :   dijon mustard
 
-1/2 tsp
+&frac12; tsp
 :   salt
-
-1/2
-:   white cabbage, shredded
-
-1
-:   carrot, peeled and grated
 
 4 tbsp
 :   mayonnaise

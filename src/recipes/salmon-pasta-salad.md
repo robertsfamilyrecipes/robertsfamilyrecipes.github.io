@@ -29,7 +29,7 @@ _For the dressing_
 1 tbsp
 :    white wine vinegar
 
-1/4 tsp
+&frac14; tsp
 :    dijon mustard
 
 ### Method

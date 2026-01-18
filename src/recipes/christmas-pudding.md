@@ -44,16 +44,16 @@ On Christmas day, steam for another 2 hours to heat it up.
 1
 :   lemon lest
 
-1/2 tsp
+&frac12; tsp
 :   ground cinnamon
 
-1/2 tsp
+&frac12; tsp
 :   mixed spice
 
-1/2 tsp
+&frac12; tsp
 :   nutmeg, freshly grated
 
-1/2 tsp
+&frac12; tsp
 :   table salt
 
 2

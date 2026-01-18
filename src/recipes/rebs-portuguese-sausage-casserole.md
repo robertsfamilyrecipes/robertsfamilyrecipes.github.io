@@ -37,10 +37,10 @@ Family recipe from Reb Willis.
 2 cloves
 :   garlic
 
-1/2 tsp    
+&frac12; tsp    
 :   dried basil
 
-1/2 tsp    
+&frac12; tsp    
 :   dried thyme
 
 2          

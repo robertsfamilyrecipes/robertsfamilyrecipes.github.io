@@ -32,7 +32,7 @@ For the pastry
 150g
 :   Flour, sieved
 
-1/2 tsp
+&frac12; tsp
 :   table salt
 
 
