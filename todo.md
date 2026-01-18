@@ -19,10 +19,11 @@ ToDo List
 * [Done] Fill in other metadata
 
 [ToDo] Change to use 1/2, 1/4 etc.
+  * https://stackoverflow.com/questions/34254732/can-vs-code-type-text-with-keyboard-shortcuts
 [ToDo] Css on the site
 [ToDo] Add instal to precommit
 [ToDo] Print layout
-[ToDo] Url in the footer?
+* [ToDo] Url in the footer for print layout
 [ToDo] What about line ending settings  
 [Done] What about editor config settings  
 
