@@ -7,9 +7,7 @@ tags:
 createdDate: 2025-06-19
 ---
 
-### Notes
-
-https://www.thespanishchef.com/recipes/broad-beans-with-chorizo
+From [the spanish chef](https://www.thespanishchef.com/recipes/broad-beans-with-chorizo)
 
 ### Ingredients
 
@@ -35,12 +33,14 @@ https://www.thespanishchef.com/recipes/broad-beans-with-chorizo
 :   lemon, zest and juice
 
 &nbsp;
-:   Sea salt and freshly ground black pepper
+:   sea salt and freshly ground black pepper
 
 ### Method
 
-Cook onions.  Add garlic, oregano, chorizo cook some more
+Cook onions.  
 
-Add broad beans and cook 2 min
+Add garlic, oregano, chorizo cook some more.
 
-Finish with lemon
+Add broad beans and cook 2 min.
+
+Finish with lemon.

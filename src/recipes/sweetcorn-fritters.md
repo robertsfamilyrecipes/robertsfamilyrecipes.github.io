@@ -7,8 +7,6 @@ tags:
 createdDate: 2026-01-18
 ---
 
-### Notes
-
 Makes 4 fritters as a side.
 
 ### Ingredients
@@ -36,8 +34,6 @@ Whisk up the egg white to soft peaks.
 
 Carefully fold the sweetcorn mixture into the egg whites.
 
-Heat a pan to medium-hot.  Add oil...it should shimmer.
-
-Blob in the mixture to make 4 fritters.
+Heat a pan to medium hot.  Add vegetable oil and blob in the mixture to make 4 fritters.
 
 Cook for a few min until coloured, then flip the fitters and cook for another few min.

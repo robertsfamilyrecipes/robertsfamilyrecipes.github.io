@@ -8,8 +8,6 @@ tags:
 createdDate: 2026-01-25 
 ---
 
-### Notes
-
 This recipe is from [Feasts by Sabrina Ghayour](https://www.amazon.co.uk/Feasts-Sunday-bestselling-Persiana-Sirocco-ebook/dp/B0716J1Y2X/).
 
 ### Ingredients

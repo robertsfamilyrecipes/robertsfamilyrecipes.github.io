@@ -7,9 +7,7 @@ tags:
 createdDate: 2025-11-23
 ---
 
-### Notes
-Family recipe from Reb Willis.  
-**Amount need refinement...this makes a lot**
+Family recipe from Reb Willis.  **Amount need refinement...this makes a lot**
 
 ### Ingredients
 
@@ -70,6 +68,6 @@ Add green pepper another 15 min.
 
 Top with breadcrumbs.
 
-Cook in oven until brown, 1 hour, 180C fan.
+Cook in oven until brown, 1 hour, 180&deg;C fan.
 
 Serve with tabasco.

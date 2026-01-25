@@ -7,13 +7,9 @@ tags:
 createdDate: 2026-01-11 
 ---
 
-### Notes
+This recipe is originally by Holly Jones on the BBC website, but is no longer listed there.
 
-Make the pudding on the last Sunday in November.  It takes 6 hours to steam but is not difficult to make.
-
-Through December feed it with cheap brandy.
-
-On Christmas day, steam for another 2 hours to heat it up.
+Make the pudding on the last Sunday in November.  It takes **6 hours** to steam but is not difficult.  Through December feed it with cheap brandy.  On Christmas day, steam for another 2 hours to heat it up.
 
 ### Ingredients
 
@@ -70,8 +66,6 @@ On Christmas day, steam for another 2 hours to heat it up.
 
 ### Method
 
-This recipe is originally by Holly Jones on the BBC website, but is no longer listed there.
-
 Butter a 1 litre pudding basin.
 
 Mix together all the dry ingredients.  
@@ -80,9 +74,7 @@ Mix in the egg, and stir.  Then add the brandy and stir, till well combined.
 
 Spoon into the pudding basin.  Cut a piece of baking parchment to fit over the basin, then tie the parchment on with a double wrap of kitchen string string.  Cover with foil.
 
-Place pudding in a steamer and steam for **6 hours**.  Check the water level every hour, and top up as needed.
-
-Let cool, and change the parchment and foil.  
+Place pudding in a steamer and steam for **6 hours**.  Check the water level every hour, and top up as needed.  Let cool, and change the parchment and foil.  
 
 Though December feed with brandy.
 

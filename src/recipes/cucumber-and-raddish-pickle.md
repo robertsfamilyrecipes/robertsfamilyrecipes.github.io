@@ -7,9 +7,6 @@ tags:
 createdDate: 2026-01-25 
 ---
 
-### Notes
-
-
 ### Ingredients
 
 1 tbsp
