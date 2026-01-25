@@ -19,6 +19,7 @@ ToDo List
 * [Done] Fill in other metadata
 
 [Done] Change to use 1/2, 1/4 etc.
+  [ToDo] Would  it  be better to do this in script?
 [InProgress] Css on the site 
 [ToDo] Show cook time and serves
 [ToDo] Add instal to precommit
