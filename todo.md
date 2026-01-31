@@ -19,15 +19,21 @@ ToDo List
 * [Done] Fill in other metadata
 
 [Done] Change to use 1/2, 1/4 etc.
-  [ToDo] Would  it  be better to do this in script?
-[InProgress] Css on the site 
+[Done] Css on the site 
+[ToDo] Style index page better 
+* last updated small and at bottom and better date
+* get rid of bullet points
 [ToDo] Show cook time and serves
 [ToDo] Add instal to precommit
 [ToDo] Print layout
 * [ToDo] Url in the footer for print layout
 [ToDo] What about line ending settings  
 [Done] What about editor config settings  
-
+[ToDO] canonical link
+  <link rel="canonical" href="https://robertsfamilyrecipes.com">
+[ToDo] favicon
+  <link rel="icon" type="image/png" href="favicon.png">
+[ToDo] set a max width on the page which will work well with an image size  
 
 ```
     # attempt to use the markdig ast parser...it's pretty difficult from powershell

@@ -10,6 +10,8 @@ createdDate: 2026-01-25
 
 This recipe is from [Feasts by Sabrina Ghayour](https://www.amazon.co.uk/Feasts-Sunday-bestselling-Persiana-Sirocco-ebook/dp/B0716J1Y2X/).
 
+If you are scaling the recipe follow the proportions on the feta cheese carefully, where as the scaling on the prawns a bit high or low will be fine.
+
 ### Ingredients
 
 &nbsp;

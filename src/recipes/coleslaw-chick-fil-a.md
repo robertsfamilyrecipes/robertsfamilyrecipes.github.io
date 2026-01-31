@@ -30,7 +30,7 @@ createdDate: 2025-12-31
 4 tbsp
 :   mayonnaise
 
-### Instructions
+### Method
 
 Whisk together vinegar, sugar, salt and mustard until sugar and salt dissolved.
 
