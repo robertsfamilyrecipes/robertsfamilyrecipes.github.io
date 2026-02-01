@@ -21,14 +21,16 @@ ToDo List
 [Done] Change to use 1/2, 1/4 etc.
 [Done] Basic css on the site 
 [Done] Add instal to precommit, and make install idempotent
-
-[ToDo] Navbar
-[ToDo] Print layout
-* [ToDo] Url in the footer for print layout
-[ToDo] Style index page better 
+[Done] Navbar
+[Done] Print layout
+[Done] Style index page better 
 * last updated small and at bottom and better date
 * get rid of bullet points
+
 [ToDo] Show cook time and serves
+[ToDo] Print layout
+* make more compact
+* Url in the footer for print layout
 [ToDo] What about line ending settings  
 [ToDO] canonical link <link rel="canonical" href="https://robertsfamilyrecipes.com">
 [ToDo] favicon  <link rel="icon" type="image/png" href="favicon.png">

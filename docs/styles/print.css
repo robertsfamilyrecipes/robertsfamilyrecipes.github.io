@@ -5,3 +5,7 @@ header, footer, nav {
 dl {
   grid-gap: 0 1rem;
 }
+
+article {
+  padding: 0;
+}

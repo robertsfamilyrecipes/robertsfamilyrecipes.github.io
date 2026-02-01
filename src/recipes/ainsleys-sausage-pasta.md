@@ -8,9 +8,7 @@ createdDate: 2026-02-01
 ---
 
 This recipe is from [Ainsley Harriott's Friends & Family Cookbook](
-https://www.amazon.co.uk/Ainsley-Harriotts-Friends-Family-Cookbook-ebook/dp/B01N024L5G/).  He also has a version in his [Feel-Good Cookbook](https://www.amazon.co.uk/Feel-Good-Cookbook-Ainsley-Harriott-ebook/dp/B01NCS42MS/).
-
-A pack of sausage normally weighs 375g, so this recipe uses 1&frac12; pack.  I normally cook double the recipe here, with 3 pack of sausage.
+https://www.amazon.co.uk/Ainsley-Harriotts-Friends-Family-Cookbook-ebook/dp/B01N024L5G/).  He also has a version in his [Feel-Good Cookbook](https://www.amazon.co.uk/Feel-Good-Cookbook-Ainsley-Harriott-ebook/dp/B01NCS42MS/).  A pack of sausage normally weighs 375g, so this recipe uses 1&frac12; pack.  I normally cook double the recipe here, with 3 pack of sausage.
 
 ### Ingredients
 
