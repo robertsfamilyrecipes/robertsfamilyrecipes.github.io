@@ -55,4 +55,4 @@ Prepare the chicken.  Gently beat the chicken breast flat with a rolling pin.  S
 
 Cook the chicken.  Heat the oven to **160&deg;C** fan.  Heat an oven proof frying pan, big enough to hold all the chicken.  When hot, add oil, then chicken. Do not move the chicken around.  Cook for about 5 min, until breadcrumbs are browned.  Flip over and cook for another 5 min.			Put the frying pan in the oven, to finish for 5 min.  Remove the cocktail sticks and serve.
 
-Don't burn your hand on the handle of the frying pan.
+Don't burn your hand on the frying pan handle.

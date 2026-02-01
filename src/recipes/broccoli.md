@@ -12,7 +12,7 @@ You **need a timer**.  The broccoli cooks for 3 minutes.  If you cook for an ext
 
 ### Ingredients
 
-1 head
+1
 :   broccoli
 
 1.5 litre
