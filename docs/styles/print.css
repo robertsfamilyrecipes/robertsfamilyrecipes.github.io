@@ -1,0 +1,7 @@
+header, footer, nav {
+    display:none;
+}
+
+dl {
+  grid-gap: 0 1rem;
+}
