@@ -1,5 +1,9 @@
-header, footer, nav {
-    display:none;
+body {
+  background-color: white;
+}
+
+header, footer, nav, figure, figcaption, img {
+  display:none;
 }
 
 dl {
