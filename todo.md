@@ -26,16 +26,36 @@ ToDo List
 [Done] Style index page better 
 * last updated small and at bottom and better date
 * get rid of bullet points
+[Done] Want the print layout to be white background
 [Done] add created and update dates to the recipes
+[InProgress] Show cook time and serves
+[ToDo] Change ingredients to a straight list
 
-[ToDo] Show cook time and serves
-[ToDo] Print layout
-* make more compact
-* Url in the footer for print layout
+
+
+[ToDo] CSS variables. https://www.w3schools.com/css/css3_variables.asp
+[ToDo] Look at bootstrap reset and apply
+* Set a max page width (768?)
+* Screen res
+* iPad: 768 x 1024
+* Phone: 320 x 693
+* Used clamp on the heading sizes (maybe on h1 needed)
+* Line height on heading (see reb casserole)
+* Default font size is 16px allegedly. Font size 12 for print?
+* Like the alert style font colouring in bootstrap
+  * See here for definition of the background colours
+  * https://github.com/twbs/bootstrap/blob/main/scss/_variables.scss
+  * This file has the definition of colour shade
+  * https://github.com/twbs/bootstrap/blob/main/scss/_functions.scss
+  * This bit of code should do colour mixing in pure css
+.button {
+  background-color: color-mix(in srgb, red 50%, blue);
+}
+[ToDo] Limit image size on larger screens
 [ToDo] What about line ending settings  
 [ToDO] canonical link <link rel="canonical" href="https://robertsfamilyrecipes.com">
 [ToDo] favicon  <link rel="icon" type="image/png" href="favicon.png">
-[ToDo] set a max width on the page which will work well with an image size  
+[ToDo] Print layout two column
 
 ```
     # attempt to use the markdig ast parser...it's pretty difficult from powershell
