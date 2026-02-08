@@ -13,6 +13,8 @@ function Build-Article {
     $html, $metadata = (Get-Content $SourceFile -Raw) | ConvertFrom-MarkDig
     $outHtml = $Template -replace '##Recipe##', $html
     $outHtml = $outHtml -replace '##Title##', $metadata.title
+    $outHtml = $outHtml -replace '##CreatedDate##', ([bool]$metadata['createdDate'] ? "Created: $($metadata.createdDate)" : "")
+    $outHtml = $outHtml -replace '##UpdatedDate##', ([bool]$metadata['updatedDate'] ? "Updated: $($metadata.updatedDate)" : "")
     Write-Host "Writing $outfile"
     $outHtml | Out-File -FilePath $outfile
 }

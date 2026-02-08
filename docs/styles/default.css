@@ -63,23 +63,21 @@ header, footer {
 nav, section[role="contentinfo"] {
   background-color: rgba(250, 250, 195, 0.5);
   padding: 0 0.5rem;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+nav a {
+  text-decoration: none;
+  font-weight: bold;
 }
 
 article {
   padding: 0.5rem;
 }
 
-
-nav {
-  display: flex;
-  justify-content: space-between;
-  flex-wrap: wrap;
-  gap: 1rem;
-}
-nav a {
-  text-decoration: none;
-  font-weight: bold;
-}
 section[role="contentinfo"] {
   color: rgba(33, 37, 41, 0.5);
   font-size: smaller;

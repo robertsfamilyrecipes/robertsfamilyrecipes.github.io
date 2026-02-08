@@ -26,6 +26,7 @@ ToDo List
 [Done] Style index page better 
 * last updated small and at bottom and better date
 * get rid of bullet points
+[Done] add created and update dates to the recipes
 
 [ToDo] Show cook time and serves
 [ToDo] Print layout

@@ -2,7 +2,7 @@ body {
   background-color: white;
 }
 
-header, footer, nav, figure, figcaption, img {
+header, footer, nav, figure, figcaption, img, section[role="contentinfo"] {
   display:none;
 }
 
