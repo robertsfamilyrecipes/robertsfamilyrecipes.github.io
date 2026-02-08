@@ -28,7 +28,7 @@ ToDo List
 * get rid of bullet points
 [Done] Want the print layout to be white background
 [Done] add created and update dates to the recipes
-[InProgress] Show cook time and serves
+[Done] Show cook time and serves
 [ToDo] Change ingredients to a straight list
 
 
