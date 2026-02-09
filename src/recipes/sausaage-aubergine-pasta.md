@@ -6,9 +6,14 @@ tags:
 - main
 - pasta
 createdDate: 2026-02-08
+updatedDate: 2026-02-09
 ---
 
 This recipe is adapted from [An A-Z of Pasta by Rachel Roddy](https://www.amazon.co.uk/Z-Pasta-Stories-Shapes-Recipes/dp/0241402506/).
+
+^^^
+![Sausage and Aubergine Pasta](../images/2026-02-09-sauasage-and-aubergine-pasta.jpg)
+^^^
 
 
 ### Ingredients
@@ -16,13 +21,13 @@ This recipe is adapted from [An A-Z of Pasta by Rachel Roddy](https://www.amazon
 &nbsp;
 :   olive oil
 
-3
+2
 :   aubergine, 1cm dice
 
 1 pack (375g)
 :   thin sausage
 
-1
+2
 :   garlic clove, thinly sliced
 
 2 tin
@@ -59,3 +64,7 @@ Cook the pasta following the packet timings.  I use 1.5 litre of water with 1 tb
 
 Serve in a bowl with the sauce and a dollop of ricotta cheese.
 
+^^^
+![aubergine before cooking](../images/2026-02-09-aubergine-before-cook.jpg)
+![aubergine after cooking](../images/2026-02-09-aubergine-after-cook.jpg)
+^^^ Cooking Aubergine
