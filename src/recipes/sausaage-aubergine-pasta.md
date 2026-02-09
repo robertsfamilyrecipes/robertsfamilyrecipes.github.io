@@ -50,7 +50,7 @@ This recipe is adapted from [An A-Z of Pasta by Rachel Roddy](https://www.amazon
 
 ### Method
 
-Cook the Aubergine.  Heat the oven to 200&deg;C fan.  Put the diced aubergine on an oven tray, add salt and olive oil and mix around.  Cremate in the oven for 40 minutes.  Stir around after 20 min.
+Cook the Aubergine.  Heat the oven to 200&deg;C fan.  Put the diced aubergine on an oven tray, add salt and olive oil and mix around.  Cremate in the oven for 30 minutes.  Stir around after 20 min.
 
 Cook the sausage.  Heat a frying pan till hot.  Add olive oil and sausage and cook for a couple of min.  Shake the pan and turn the heat down to medium.  You are aiming for a slow cook where gunk from the sausages collects on the bottom of the pan.  You need to keep you eye on the pan - you don't want to burn the gunk.
 
