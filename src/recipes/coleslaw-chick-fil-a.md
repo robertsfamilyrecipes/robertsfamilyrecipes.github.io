@@ -5,7 +5,10 @@ duration: 15 min
 tags: 
 - side
 createdDate: 2025-12-31
+updatedDate: 2026-02-12
 ---
+
+[From reddit](https://np.reddit.com/r/GifRecipes/comments/ai8o2u/chickfila_cole_slaw/)
 
 ### Ingredients
 
