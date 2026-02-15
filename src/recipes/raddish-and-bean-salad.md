@@ -12,29 +12,14 @@ Need to refine quantities
 
 ### Ingredients
 
-1 tin
-:   cannelini beans, drained
-
-6
-:   radishes, sliced
-
-6
-:   spring onions, chopped
-
-1 handful
-:   flat leaved parsley, chopped
-
-2   
-:   anchovy fillets, mashed
-
-3 tbsp
-:   olive oil
-
-1 tbsp
-:   white wine vinegar
-
-&nbsp;
-:   salt and pepper
+* 1 tin cannelini beans, drained
+* 6 radishes, sliced
+* 6 spring onions, chopped
+* 1 handful flat leaved parsley, chopped
+* 2 anchovy fillets, mashed
+* 3 tbsp olive oil
+* 1 tbsp white wine vinegar
+* salt and pepper
 
 ### Method
 

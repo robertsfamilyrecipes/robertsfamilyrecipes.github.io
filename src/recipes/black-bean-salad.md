@@ -9,32 +9,15 @@ createdDate: 2026-01-02
 
 ### Ingredients
 
-1 tin
-:   black beans, drained and washed
-
-1
-:   red onion, chopped small
-
-1 tin
-:   sweetcorn, drained
-
-4
-:   tomatoes, chopped and salted
-
-1
-:   red pepper, diced
-
-1
-:   lime
-
-2 tbsp
-:   olive oil
-
-&frac12; tsp
-:   chilli powder
-
-&frac12; tsp
-:   ground cumin
+* 1 tin black beans, drained and washed
+* 1 red onion, chopped small
+* 1 tin sweetcorn, drained
+* 4 tomatoes, chopped and salted
+* 1 red pepper, diced
+* 1 lime
+* 2 tbsp olive oil
+* &frac12; tsp chilli powder
+* &frac12; tsp ground cumin
 
 ### Method
 

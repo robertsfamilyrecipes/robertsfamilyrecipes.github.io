@@ -13,56 +13,23 @@ Make the pudding on the last Sunday in November.  It takes **6 hours** to steam 
 
 ### Ingredients
 
-110g
-:   golden caster sugar
-
-110g
-:   vegetable suet
-
-200g
-:   sultanas
-
-250g
-:   raisins
-
-50g
-:   candied peel
-
-50g
-:   plain flour
-
-50g
-:   panko breadcrumbs
-
-25g
-:   flaked almonds
-
-1
-:   lemon lest
-
-&frac12; tsp
-:   ground cinnamon
-
-&frac12; tsp
-:   mixed spice
-
-&frac12; tsp
-:   nutmeg, freshly grated
-
-&frac12; tsp
-:   table salt
-
-2
-:   eggs, beaten
-
-75 ml
-:   brandy
-
-&nbsp;
-:   baking parchment
-
-&nbsp;
-:   kitchen string
+* 110g golden caster sugar
+* 110g vegetable suet
+* 200g sultanas
+* 250g raisins
+* 50g candied peel
+* 50g plain flour
+* 50g panko breadcrumbs
+* 25g flaked almonds
+* 1 lemon lest
+* &frac12; tsp ground cinnamon
+* &frac12; tsp mixed spice
+* &frac12; tsp nutmeg, freshly grated
+* &frac12; tsp table salt
+* 2 eggs, beaten
+* 75 ml brandy
+* baking parchment
+* kitchen string
 
 ### Method
 

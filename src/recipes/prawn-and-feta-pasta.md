@@ -14,32 +14,15 @@ If you are scaling the recipe follow the proportions on the feta cheese carefull
 
 ### Ingredients
 
-&nbsp;
-:   olive oil
-
-6 cloves
-:   garlic, thinly sliced
-
-300g
-:   big prawns (cooked)
-
-1
-:   lemon, zested
-
-25g
-:   butter
-
-1tbsp
-:   pul biber (allepo) chilli flakes
-
-200g
-:   feta cheese, diced
-
-handful
-:   greek basil leaves, shredded
-
-500g
-:   linguine
+* olive oil
+* 6 garlic cloves, thinly sliced
+* 300g big prawns (cooked)
+* 1 lemon, zested
+* 25g butter
+* 1 tbsp pul biber (allepo) chilli flakes
+* 200g feta cheese, diced
+* handful greek basil leaves, shredded
+* 500g linguine
 
 ### Method
 

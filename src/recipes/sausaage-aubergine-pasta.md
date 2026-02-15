@@ -18,35 +18,16 @@ This recipe is adapted from [An A-Z of Pasta by Rachel Roddy](https://www.amazon
 
 ### Ingredients
 
-&nbsp;
-:   olive oil
-
-2
-:   aubergine, 1cm dice
-
-1 pack (375g)
-:   thin sausage
-
-2
-:   garlic clove, thinly sliced
-
-2 tin
-:   tomatoes
-
-&frac12; tsp
-:   brown sugar
-
-&frac12; tsp
-:   dried chillies
-
-&nbsp;
-:   fresh basil, chopped
-
-50g
-:   ricotta cheese
-
-500g
-:   spaghetti
+* olive oil
+* 2 aubergine, 1cm dice
+* 1 pack (375g) thin sausage
+* 2 garlic clove, thinly sliced
+* 2 tin tomatoes
+* &frac12; tsp brown sugar
+* &frac12; tsp dried chillies
+* fresh basil, chopped
+* 50g ricotta cheese
+* 500g spaghetti
 
 ### Method
 

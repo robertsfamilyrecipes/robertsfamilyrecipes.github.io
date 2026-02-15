@@ -11,29 +11,14 @@ From [Green lite bites](https://greenlitebites.com/thai-inspired-cucumber-cashew
 
 ### Ingredients
 
-2 tbsp
-:   lime juice
-
-1 tsp
-:   soy sauce
-
-1 tbsp
-:   honey
-
-&frac12; tsp
-:   tabasco
-
-1
-:   garlic clove, minced
-
-1 
-:   cucumber, diced
-
-handful
-:   mint, chopped
-
-25g
-:   cashew nuts, chopped
+* 2 tbsp lime juice
+* 1 tsp soy sauce
+* 1 tbsp honey
+* &frac12; tsp tabasco
+* 1 garlic clove, minced
+* 1 cucumber, diced
+* small handful mint, chopped
+* 25g cashew nuts, chopped
 
 ### Method
 

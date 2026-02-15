@@ -11,18 +11,10 @@ Makes 4 fritters as a side.
 
 ### Ingredients
 
-1
-:   egg
-
-200g tin (small)
-:   sweetcorn, drained
-
-1 tbsp
-:   plain flour
-
-&nbsp;
-:   salt and pepper
-
+* 1 egg
+* 200g tin sweetcorn, drained
+* 1 tbsp plain flour
+* salt and pepper
 
 ### Method
 

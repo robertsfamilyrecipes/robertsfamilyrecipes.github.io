@@ -16,38 +16,17 @@ From [Japan Centre](https://www.japancentre.com/en/recipe/301-japanese-chicken-k
 
 ### Ingredients
 
-1
-:   onion, chopped
-
-1
-:   potato, peeled and chopped
-
-1
-:   carrot, peeled and chopped
-
-500ml
-:   water
-
-6
-:   katsu curry cubes
-
-4
-:   chicken breasts
-
-&nbsp;
-:   salt and pepper
-
-&nbsp;
-:   flour
-
-2
-:   eggs, beaten
-
-&nbsp;
-:   panko breadcrumbs
-
-&nbsp;
-:   vegetable oil
+* 1 onion, chopped
+* 1 potato, peeled and chopped
+* 1 carrot, peeled and chopped
+* 500ml water
+* 6 katsu curry cubes
+* 4 chicken breasts
+* salt and pepper
+* flour
+* 2 eggs, beaten
+* panko breadcrumbs
+* vegetable oil
 
 ### Method
 

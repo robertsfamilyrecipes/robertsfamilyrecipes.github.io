@@ -11,29 +11,14 @@ From [the spanish chef](https://www.thespanishchef.com/recipes/broad-beans-with-
 
 ### Ingredients
 
-250g
-:   tin broad beans
-
-3 tbsp
-:   olive oil
-
-1 
-:   onion, finely chopped
-
-5
-:   garlic cloves
-
-1 sprig 
-:   fresh oregano
-
-90g 
-:   chorizo
-
-1
-:   lemon, zest and juice
-
-&nbsp;
-:   sea salt and freshly ground black pepper
+* 250g tin broad beans
+* 3 tbsp olive oil
+* 1 onion, finely chopped
+* 5 garlic cloves, thinly sliced
+* 1 sprig fresh oregano, chopped
+* 90g chorizo
+* 1 lemon, zest and juice
+* salt and pepper
 
 ### Method
 

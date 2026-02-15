@@ -13,32 +13,15 @@ This used to be out go to pasta recipe.  It is the basis for lots of the pasta s
 
 ### Ingredients
 
-&nbsp;
-:   olive oil
-
-1 pack
-:   bacon, cut in thin pieces
-
-1
-:   onion, finely chopped
-
-2
-:   garlic cloves, finley sliced.
-
-1 tin
-:   tomatoes, chopped
-
-&frac14; tsp
-:   brown sugar
-
-&frac14; tsp
-:   chilli flakes
-
-&nbsp;
-:   salt and pepper
-
-500g
-:   short pasta
+* olive oil
+* 1 pack bacon, cut in thin pieces
+* 1 onion, finely chopped
+* 2 garlic cloves, finley sliced.
+* 1 tin tomatoes, chopped
+* &frac14; tsp brown sugar
+* &frac14; tsp chilli flakes
+* salt and pepper
+* 500g short pasta
 
 ### Method
 

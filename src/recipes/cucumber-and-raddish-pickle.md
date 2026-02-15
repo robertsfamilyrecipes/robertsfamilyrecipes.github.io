@@ -16,20 +16,11 @@ I normally make this as a side with [Chicken Katsu Curry](./chicken-katsu-curry.
 
 ### Ingredients
 
-1 tbsp
-:   rice wine vinegar
-
-1 tbsp
-:   sesame oil
-
-&frac12; tsp
-:   caster sugar
-
-6
-:   radishes, topped tailed and thinly sliced
-
-&frac12;
-:   cucumber, thinly sliced rectangular
+* 1 tbsp rice wine vinegar
+* 1 tbsp sesame oil
+* &frac12; tsp caster sugar
+* 6 radishes, topped tailed and thinly sliced
+* &frac12; cucumber, thinly sliced rectangular
 
 ### Method
 

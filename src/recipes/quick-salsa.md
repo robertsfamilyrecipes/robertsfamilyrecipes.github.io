@@ -4,6 +4,7 @@ serves: 4 as a side
 duration: 10 min
 tags: 
 - side
+- mexican
 createdDate: 2026-02-15 
 updatedDate:
 ---
@@ -12,20 +13,11 @@ From [Bite-sized Mexican](https://www.amazon.co.uk/Bite-sized-Mexican-Anon/dp/06
 
 ### Ingredients
 
-&frac12;
-:   red onion, finley chopped
-
-250g
-:   tomatoes, chopped
-
-1
-:   green chilli, seeded and chopped
-
-&nbsp;
-:   salt and pepper
-
-1
-:   lime, juiced
+* &frac12; red onion, finley chopped
+* 250g tomatoes, chopped and salted
+* 1 green chilli, seeded and chopped
+* pepper
+* 1 lime, juiced
 
 ### Method
 

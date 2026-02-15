@@ -12,15 +12,9 @@ You **need a timer**.  The broccoli cooks for 3 minutes.  If you cook for an ext
 
 ### Ingredients
 
-1
-:   broccoli
-
-1.5 litre
-:   water
-
-1 tbsp
-:   table salt
-
+* 1 broccoli
+* 1.5 litre water
+* 1 tbsp table salt
 
 ### Method
 

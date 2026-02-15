@@ -12,14 +12,9 @@ This is a slightly quicker version of roast potatoes, made with new potatoes and
 
 ### Ingredients
 
-1kg
-:   new potatoes
-
-&nbsp;
-:   olive oil
-
-&nbsp;
-:   salt
+* 1kg new potatoes
+* olive oil
+* salt
 
 ### Method
 

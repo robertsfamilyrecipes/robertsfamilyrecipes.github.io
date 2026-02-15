@@ -11,44 +11,19 @@ Family recipe from Reb Willis.  **Amount need refinement...this makes a lot**
 
 ### Ingredients
 
-3 tbsp     
-:   olive oil
-
-3          
-:   onions
-
-400g
-:   chorizo, diced
-
-3          
-:   potatoes, peeled and chopped to 3cm cube
-
-6 tin      
-:   beans (chick pea, kidney, borlotti, white)
-
-1
-:   green pepper, chopped
-
-2 tin      
-:   tomatoes, chopped
-
-2 cloves
-:   garlic
-
-&frac12; tsp    
-:   dried basil
-
-&frac12; tsp    
-:   dried thyme
-
-2          
-:   bay leaves
-
-1 
-:   chicken stock pot
-
-60g
-:   panko breadcrumbs
+* 3 tbsp olive oil
+* 3 onions
+* 400g chorizo, diced
+* 3 potatoes, peeled and chopped to 3cm cube
+* 6 tin beans (chick pea, kidney, borlotti, white)
+* 1 green pepper, chopped
+* 2 tin tomatoes, chopped
+* 2 garlic cloves, thinly sliced
+* &frac12; tsp dried basil
+* &frac12; tsp dried thyme
+* 2 bay leaves
+* 1 chicken stock pot
+* 60g panko breadcrumbs
 
 ### Method
 

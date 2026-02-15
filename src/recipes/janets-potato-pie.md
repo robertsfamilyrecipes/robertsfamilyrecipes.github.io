@@ -11,31 +11,15 @@ We have this potato pie on new years eve.  Its a long cook, up to **4 hours**.
 
 ### Ingredients
 
-500g
-:   stewing steak, in 2 cm dice
-
-1
-:   onion, chopped
-
-1.5 kg
-:   potato, peeled and diced to 2 cm
-
-1
-:   carrot, peeled and diced
-
-1
-:   stock cube, made to 500 ml of stock
-
-_For the pastry_
-
-75g
-:   butter
-
-150g
-:   flour, sieved
-
-&frac12; tsp
-:   table salt
+* 500g stewing steak, in 2 cm dice
+* 1 onion, chopped
+* 1.5kg potato, peeled and diced to 2 cm
+* 1 carrot, peeled and diced
+* 1 beef stock pot, made to 500 ml of stock
+* _For the pastry_
+* 75g butter
+* 150g flour, sieved
+* &frac12; tsp table salt
 
 ### Method
 

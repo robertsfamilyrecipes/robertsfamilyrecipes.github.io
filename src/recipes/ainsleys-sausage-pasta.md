@@ -17,52 +17,22 @@ https://www.amazon.co.uk/Ainsley-Harriotts-Friends-Family-Cookbook-ebook/dp/B01N
 
 ### Ingredients
 
-500g
-:   thin sausages
-
-&nbsp;
-:   olive oil
-
-2
-:   red onion, thinly sliced
-
-1 tbsp
-:   tomato puree
-
-1
-:   red pepper, thinly sliced
-
-1
-:   yellow pepper, thinly sliced
-
-2
-:   garlic clove, thinly sliced
-
-&frac12; tsp
-:   chipotle chilli flakes
-
-&frac12; tsp
-:   dried oregano
-
-1 tin
-:   tomatoes
-
-&frac14; tsp
-:   brown sugar
-
-&nbsp;
-:   salt and pepper
-
-_Pasta_
-
-500g
-:   short pasta (penne, fusilli etc.)
-
-1.5 litre
-:   water
-
-1 tbsp
-:   table salt
+* olive oil
+* 500g thin sausages
+* 2 red onion, thinly sliced
+* 1 tbsp tomato puree
+* 1 red pepper, thinly sliced
+* 1 yellow pepper, thinly sliced
+* 2 garlic clove, thinly sliced
+* &frac12; tsp chipotle chilli flakes
+* &frac12; tsp dried oregano
+* 1 tin tomatoes
+* &frac14; tsp brown sugar
+* salt and pepper
+* _Pasta_
+* 500g short pasta (penne, fusilli etc.)
+* 1.5 litre water
+* 1 tbsp table salt
 
 ### Method
 

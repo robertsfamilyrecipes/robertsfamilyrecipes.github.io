@@ -12,26 +12,13 @@ updatedDate: 2026-02-12
 
 ### Ingredients
 
-&frac12;
-:   white cabbage, shredded
-
-1
-:   carrot, peeled and grated
-
-2 tsp
-:   vinegar
-
-1 tbsp
-:   sugar
-
-1 tsp
-:   dijon mustard
-
-&frac12; tsp
-:   salt
-
-4 tbsp
-:   mayonnaise
+* &frac12; white cabbage, shredded
+* 1 carrot, peeled and grated
+* 2 tsp white wine vinegar
+* 1 tbsp caster sugar
+* 1 tsp dijon mustard
+* &frac12; tsp salt
+* 4 tbsp mayonnaise
 
 ### Method
 

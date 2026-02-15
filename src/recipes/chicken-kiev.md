@@ -15,38 +15,17 @@ This recipe is from [Hello! Good Cooking by Jill Cox](https://www.amazon.co.uk/g
 
 ### Ingredients
 
-100g
-:   butter
-
-&frac12;
-:   lemon, juice and zest
-
-4
-:   garlic cloves, crushed to paste
-
-2 tbsp
-:   tarragon, finely chopped
-
-&nbsp;
-:   salt and pepper
-
-4
-:   chicken breasts
-
-&nbsp;
-:   flour
-
-2
-:   eggs, beaten
-
-&nbsp;
-:   panko breadcrumbs
-
-&nbsp;
-:   sunflower oil
-
-&nbsp;
-:   cocktail sticks
+* 100g butter
+* &frac12; lemon, juice and zest
+* 4 garlic cloves, crushed to paste
+* 2 tbsp tarragon, finely chopped
+* salt and pepper
+* 4 chicken breasts
+* flour
+* 2 eggs, beaten
+* panko breadcrumbs
+* sunflower oil
+* cocktail sticks
 
 ### Method
 

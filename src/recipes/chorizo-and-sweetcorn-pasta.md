@@ -13,29 +13,14 @@ This recipe is adapter from [The Top One Hundred Patsa Sauces by Diane Seed](htt
 
 ### Ingredients
 
-25g
-:   butter
-
-1
-:   onion, finely chopped
-
-1
-:   garlic clove, finely sliced
-
-1 tin
-:   tomatoes
-
-&frac14; tsp
-:   brown sugar
-
-400g
-:   chorizo, diced
-
-200g tin
-:   sweetcorn, drained
-
-500g
-:   conchiglie, or other short pasta
+* 25g butter
+* 1 onion, finely chopped
+* 1 garlic clove, finely sliced
+* 1 tin tomatoes
+* &frac14; tsp brown sugar
+* 400g chorizo, diced
+* 200g tin sweetcorn, drained
+* 500g conchiglie, or other short pasta
 
 ### Method
 
