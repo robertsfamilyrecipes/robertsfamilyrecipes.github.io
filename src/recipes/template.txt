@@ -19,8 +19,8 @@ updatedDate:
 
 ### Ingredients
 
-amount
-:   item
+* item
+* item
 
 
 ### Method

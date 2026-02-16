@@ -29,9 +29,12 @@ ToDo List
 [Done] Want the print layout to be white background
 [Done] add created and update dates to the recipes
 [Done] Show cook time and serves
-[ToDo] Change ingredients to a straight list
+[Done] Change ingredients to a straight list
 
-
+[ToDO] canonical link <link rel="canonical" href="https://robertsfamilyrecipes.com">
+[ToDo] favicon  <link rel="icon" type="image/png" href="favicon.png">
+[ToDo] Html sections
+[ToDO] Put picture in metadata
 
 [ToDo] CSS variables. https://www.w3schools.com/css/css3_variables.asp
 [ToDo] Look at bootstrap reset and apply
@@ -53,8 +56,6 @@ ToDo List
 }
 [ToDo] Limit image size on larger screens
 [ToDo] What about line ending settings  
-[ToDO] canonical link <link rel="canonical" href="https://robertsfamilyrecipes.com">
-[ToDo] favicon  <link rel="icon" type="image/png" href="favicon.png">
 [ToDo] Print layout two column
 
 ```
