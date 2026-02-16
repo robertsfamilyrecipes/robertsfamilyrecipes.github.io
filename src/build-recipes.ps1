@@ -13,6 +13,7 @@ function Build-Article {
     $html, $metadata = (Get-Content $SourceFile -Raw) | ConvertFrom-MarkDig
     $outHtml = $Template -replace '##Recipe##', $html
     $outHtml = $outHtml -replace '##Title##', $metadata.title
+    $outHtml = $outHtml -replace '##Canonical##', "https://robertsfamilyrecipes.com/recipes/$($SourceFile.BaseName).html"
     $outHtml = $outHtml -replace '##Serves##', "Serves: $($metadata.serves)"
     $outHtml = $outHtml -replace '##Duration##', "Cook Time: $($metadata.duration)"
     $outHtml = $outHtml -replace '##CreatedDate##', "Created: $($metadata.createdDate)"
