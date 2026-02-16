@@ -30,12 +30,13 @@ ToDo List
 [Done] add created and update dates to the recipes
 [Done] Show cook time and serves
 [Done] Change ingredients to a straight list
+[Done] canonical link <link rel="canonical" href="https://robertsfamilyrecipes.com">
 
-[ToDO] canonical link <link rel="canonical" href="https://robertsfamilyrecipes.com">
 [ToDo] favicon  <link rel="icon" type="image/png" href="favicon.png">
 [ToDo] Html sections
 [ToDO] Put picture in metadata
 
+[ToDo] Html validation
 [ToDo] CSS variables. https://www.w3schools.com/css/css3_variables.asp
 [ToDo] Look at bootstrap reset and apply
 * Set a max page width (768?)
