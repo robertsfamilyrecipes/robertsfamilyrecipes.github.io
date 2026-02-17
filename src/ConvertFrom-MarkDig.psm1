@@ -33,3 +33,21 @@ function ConvertFrom-MarkDig {
 
     Write-Output $outHtml, $metadata
 }
+
+function Split-Document {
+    [CmdletBinding()]
+    [OutputType([String])]
+    param (
+        [Parameter(ValueFromPipeline, Mandatory=$true)]
+        [string] $MarkDown
+    )
+
+    $parts = $MarkDown -split "((?smi)^#{1,6}\s+.*?$)"
+
+    # return this
+    $parts[0]
+    for($i = 1; $i -lt $parts.Length; $i+=2){
+        # return this
+        $parts[$i] + $parts[$i+1]
+    }
+}

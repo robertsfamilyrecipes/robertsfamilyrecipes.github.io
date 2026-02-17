@@ -42,3 +42,50 @@ serves: 4
         }
     }
 }
+
+Describe 'Split-Document tests' {
+    Context 'happy path' {
+        It 'Just an intro' {
+            $markdown = @"
+intro
+more intro
+"@
+            $intro, $section1, $section2 = Split-Document -MarkDown $markdown
+            $intro | Should -Be "intro`r`nmore intro"
+            $section1 | Should -Be $null
+            $section2 | Should -Be $null
+        }
+
+        It 'One section' {
+            $markdown = @"
+intro
+
+# section 1 heading
+
+section 1 body
+"@
+            $intro, $section1, $section2 = Split-Document -MarkDown $markdown
+            $intro | Should -Be "intro`r`n`r`n"
+            $section1 | Should -Be "# section 1 heading`r`n`r`nsection 1 body"
+            $section2 | Should -Be $null
+        }
+
+                It 'One section' {
+            $markdown = @"
+intro
+
+# section 1 heading
+
+section 1 body
+
+# section 2 heading
+
+section 2 body
+"@
+            $intro, $section1, $section2 = Split-Document -MarkDown $markdown
+            $intro | Should -Be "intro`r`n`r`n"
+            $section1 | Should -Be "# section 1 heading`r`n`r`nsection 1 body`r`n`r`n"
+            $section2 | Should -Be "# section 2 heading`r`n`r`nsection 2 body"
+        }
+    }
+}
