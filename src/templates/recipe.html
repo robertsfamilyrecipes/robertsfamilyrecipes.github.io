@@ -3,9 +3,9 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>##Title##</title>
+  <title>$($replacements.title)</title>
   <meta name="author" content="Mat Roberts">
-  <link rel="canonical" href="##Canonical##">
+  <link rel="canonical" href="$($replacements.canonical)">
   <link rel="stylesheet" href="../styles/default.css">
   <link rel="stylesheet" href="../styles/print.css" media="print">
 </head>
@@ -19,11 +19,11 @@
     <a href="#" onclick="window.print();return false;">Print</a>
   </nav>
   <article>
-    <section role="mark"><div>##Serves##</div><div>##Duration##</div></section>
-    <h2>##Title##</h2>
-##Recipe##  
+    <section role="mark"><div>$($replacements.serves)</div><div>$($replacements.duration)</div></section>
+    <h2>$($replacements.title)</h2>
+$($replacements.content)  
   </article>
-  <section role="contentinfo"><div>##CreatedDate##</div><div>##UpdatedDate##</div></section>
+  <section role="contentinfo"><div>$($replacements.createdDate)</div><div>$($replacements.updatedDate)</div></section>
   <footer>
     <div>&copy; 2022-2026 Mat Roberts</div>
   </footer>

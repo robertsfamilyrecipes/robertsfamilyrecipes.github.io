@@ -11,13 +11,17 @@ function Build-Article {
 
     $outfile = "$TargetFolder\$($SourceFile.BaseName).html"
     $html, $metadata = (Get-Content $SourceFile -Raw) | ConvertFrom-MarkDig
-    $outHtml = $Template -replace '##Recipe##', $html
-    $outHtml = $outHtml -replace '##Title##', $metadata.title
-    $outHtml = $outHtml -replace '##Canonical##', "https://robertsfamilyrecipes.com/recipes/$($SourceFile.BaseName).html"
-    $outHtml = $outHtml -replace '##Serves##', "Serves: $($metadata.serves)"
-    $outHtml = $outHtml -replace '##Duration##', "Cook Time: $($metadata.duration)"
-    $outHtml = $outHtml -replace '##CreatedDate##', "Created: $($metadata.createdDate)"
-    $outHtml = $outHtml -replace '##UpdatedDate##', ([bool]$metadata['updatedDate'] ? "Updated: $($metadata.updatedDate)" : "")
+    $replacements = @{
+        title = $metadata.title;
+        canonical = "https://robertsfamilyrecipes.com/recipes/$($SourceFile.BaseName).html";
+        serves = "Serves: $($metadata.serves)";
+        duration = "Cook Time: $($metadata.duration)";
+        content = $html;
+        createdDate = "Created: $($metadata.createdDate)";
+        updatedDate = ([bool]$metadata['updatedDate'] ? "Updated: $($metadata.updatedDate)" : "");
+    }
+    
+    $outHtml = $ExecutionContext.InvokeCommand.ExpandString($Template)
     Write-Host "Writing $outfile"
     $outHtml | Out-File -FilePath $outfile
 }
