@@ -21,7 +21,8 @@
   <article>
     <section role="mark"><div>$($replacements.serves)</div><div>$($replacements.duration)</div></section>
     <h2>$($replacements.title)</h2>
-$($replacements.content)  
+$($replacements.intro)
+$($replacements.sections | ForEach { $_ })
   </article>
   <section role="contentinfo"><div>$($replacements.createdDate)</div><div>$($replacements.updatedDate)</div></section>
   <footer>

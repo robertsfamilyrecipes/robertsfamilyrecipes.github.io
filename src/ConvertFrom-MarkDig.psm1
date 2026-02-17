@@ -21,17 +21,12 @@ function ConvertFrom-MarkDig {
 
     # yaml
     $yaml = [Markdig.Syntax.MarkdownObjectExtensions]::Descendants[Markdig.Extensions.Yaml.YamlFrontMatterBlock]($document) | Select-Object -First 1
-    if ($null -eq $yaml) {
-        Write-Warning "missing front matter"
-        $metadata = @{}
-    } else {
-        $metadata = ConvertFrom-Yaml $yaml.Lines.ToString()
+    if ($null -ne $yaml) {
+        Write-Output (ConvertFrom-Yaml $yaml.Lines.ToString())
     }
 
     # html
-    $outHtml = [Markdig.Markdown]::ToHtml($document, $pipeline)
-
-    Write-Output $outHtml, $metadata
+    Write-Output ([Markdig.Markdown]::ToHtml($document, $pipeline))
 }
 
 function Split-Document {
@@ -44,10 +39,8 @@ function Split-Document {
 
     $parts = $MarkDown -split "((?smi)^#{1,6}\s+.*?$)"
 
-    # return this
-    $parts[0]
+    Write-Output ($parts[0])
     for($i = 1; $i -lt $parts.Length; $i+=2){
-        # return this
-        $parts[$i] + $parts[$i+1]
+        Write-Output ($parts[$i] + $parts[$i+1])
     }
 }

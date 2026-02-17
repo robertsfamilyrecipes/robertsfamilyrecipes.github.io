@@ -10,13 +10,16 @@ function Build-Article {
     )
 
     $outfile = "$TargetFolder\$($SourceFile.BaseName).html"
-    $html, $metadata = (Get-Content $SourceFile -Raw) | ConvertFrom-MarkDig
+    $metadata, $intro, $sections = (Get-Content $SourceFile -Raw) | Split-Document | ForEach-Object {
+        ConvertFrom-MarkDig $_
+    }
     $replacements = @{
         title = $metadata.title;
         canonical = "https://robertsfamilyrecipes.com/recipes/$($SourceFile.BaseName).html";
         serves = "Serves: $($metadata.serves)";
         duration = "Cook Time: $($metadata.duration)";
-        content = $html;
+        intro = $intro;
+        sections = $sections;
         createdDate = "Created: $($metadata.createdDate)";
         updatedDate = ([bool]$metadata['updatedDate'] ? "Updated: $($metadata.updatedDate)" : "");
     }
@@ -27,6 +30,7 @@ function Build-Article {
 }
 
 $targetFolder = "$PsScriptRoot\..\docs\recipes"
+# see https://stackoverflow.com/a/60385403
 $template = Get-Content "$PsScriptRoot\templates\recipe.html" -Raw
 
 Get-ChildItem -Path "$PsScriptRoot\recipes\*" -File -Include *.md | ForEach-Object {

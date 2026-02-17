@@ -31,11 +31,15 @@ ToDo List
 [Done] Show cook time and serves
 [Done] Change ingredients to a straight list
 [Done] canonical link <link rel="canonical" href="https://robertsfamilyrecipes.com">
+[Done] Change to templating rather than regex
+[InProgress] Split markdown into sections and reassemble in html
+* [ToDo] Annoying whitespace problem
 
 [ToDo] favicon  <link rel="icon" type="image/png" href="favicon.png">
-[ToDo] Html sections
+
 [ToDO] Put picture in metadata
 
+[ToDo] Hero Icons https://github.com/tailwindlabs/heroicons
 [ToDo] Html validation
 [ToDo] CSS variables. https://www.w3schools.com/css/css3_variables.asp
 [ToDo] Look at bootstrap reset and apply

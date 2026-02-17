@@ -10,7 +10,7 @@ Describe 'ConvertFrom-MarkDig tests' {
             $markdown = @"
 # Heading 1
 "@
-            $html, $metadata = ConvertFrom-MarkDig -MarkDown $markdown
+            $html = ConvertFrom-MarkDig -MarkDown $markdown
 
             $html | Should -Be "<h1 id=""heading-1"">Heading 1</h1>`n"
         }
@@ -21,7 +21,7 @@ Describe 'ConvertFrom-MarkDig tests' {
 1 tsp
 :   table salt
 "@
-            $html, $metadata = ConvertFrom-MarkDig -MarkDown $markdown
+            $html = ConvertFrom-MarkDig -MarkDown $markdown
 
             $html | Should -Be "<dl>`n<dt>1 tsp</dt>`n<dd>table salt</dd>`n</dl>`n"            
         }
@@ -35,7 +35,7 @@ title: BBQ Chicken wings
 serves: 4
 ---
 "@
-            $html, $metadata = ConvertFrom-MarkDig -MarkDown $markdown
+            $metadata, $html = ConvertFrom-MarkDig -MarkDown $markdown
             
             $metadata.title | Should -Be "BBQ Chicken wings"
             $metadata.serves | Should -Be "4"
