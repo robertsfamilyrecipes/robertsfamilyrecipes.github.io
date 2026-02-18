@@ -64,6 +64,10 @@ ToDo List
 [ToDo] Print layout two column
 
 ```
+.TrimEnd([char]"`r", [char]"`n")
+```
+
+```
     # attempt to use the markdig ast parser...it's pretty difficult from powershell
     # create the pipeline 
     $pipelineBuilder = [MarkDig.MarkdownPipelineBuilder]::new()

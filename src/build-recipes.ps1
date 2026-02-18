@@ -1,6 +1,6 @@
 $ErrorActionPreference="Stop"
 Set-StrictMode -Version Latest
-Import-Module "$PsScriptRoot\ConvertFrom-MarkDig.psm1"
+Import-Module "$PsScriptRoot\ConvertFrom-MarkDig.psm1" -Force
 
 function Build-Article {
     param (
