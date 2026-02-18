@@ -19,12 +19,21 @@
     <a href="#" onclick="window.print();return false;">Print</a>
   </nav>
   <article>
-    <section role="mark"><div>$($replacements.serves)</div><div>$($replacements.duration)</div></section>
-    <h2>$($replacements.title)</h2>
+    <div role="mark"><div>$($replacements.serves)</div><div>$($replacements.duration)</div></div>
+<section>
+<h2>$($replacements.title)</h2>
 $($replacements.intro)
-$($replacements.sections | ForEach { $_ })
+</section>
+$($replacements.sections | ForEach { 
+@"
+<section>
+$_
+</section>
+
+"@
+})
   </article>
-  <section role="contentinfo"><div>$($replacements.createdDate)</div><div>$($replacements.updatedDate)</div></section>
+  <div role="contentinfo"><div>$($replacements.createdDate)</div><div>$($replacements.updatedDate)</div></div>
   <footer>
     <div>&copy; 2022-2026 Mat Roberts</div>
   </footer>

@@ -80,7 +80,7 @@ header > h1 {
   padding:0;
 }
 
-section[role="mark"] {
+div[role="mark"] {
   padding: 0;
   display: flex;
   justify-content: space-between;
@@ -88,13 +88,18 @@ section[role="mark"] {
   gap: 1rem;
 }
 
-nav, section[role="contentinfo"] {
+nav, div[role="contentinfo"] {
   background-color: var(--sub-heading-bg);
   padding: 0 0.5rem;
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
   gap: 1rem;
+}
+
+div[role="contentinfo"] {
+  color: rgba(33, 37, 41, 0.5);
+  font-size: smaller;
 }
 
 nav a {
@@ -106,24 +111,11 @@ article {
   padding: 0.5rem;
 }
 
-section[role="contentinfo"] {
-  color: rgba(33, 37, 41, 0.5);
-  font-size: smaller;
+section {
+  margin-bottom: 1rem;
 }
 
 
-/* https://bloycey.medium.com/how-to-style-dl-dt-and-dd-html-tags-ced1229deda0 */
-dl {
-  display: grid;
-  grid-gap: 0.2em 1rem;
-  grid-template-columns: max-content;
-  margin-bottom: 0.5rem;
-}
-dt {
-}
-dd {
-  grid-column-start: 2;
-}
 
 ul {
   list-style-type: none;
