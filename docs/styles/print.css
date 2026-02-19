@@ -2,12 +2,8 @@ body {
   background-color: white;
 }
 
-header, footer, nav, figure, figcaption, img, section[role="contentinfo"] {
+header, footer, nav, figure, figcaption, img, div.sub-footer {
   display:none;
-}
-
-dl {
-  grid-gap: 0 1rem;
 }
 
 article {

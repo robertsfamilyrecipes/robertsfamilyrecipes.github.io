@@ -17,6 +17,10 @@
   --body: #212529;
 }
 
+#root, #__next {
+  isolation: isolate;
+}
+
 *, *::before, *::after {
   box-sizing: border-box;
 }
@@ -40,24 +44,18 @@ input, button, textarea, select {
   font: inherit;
 }
 
-p, h1, h2, h3, h4, h5, h6 {
-  overflow-wrap: break-word;
-}
-
 p {
+  overflow-wrap: break-word;
   text-wrap: pretty;
   margin-bottom: 0.5rem;
 }
 
 h1, h2, h3, h4, h5, h6 {
+  overflow-wrap: break-word;
   text-wrap: balance;
   margin-top: 0;
   margin-bottom: 0.5rem;
   line-height: 1.2;
-}
-
-#root, #__next {
-  isolation: isolate;
 }
 
 body {
@@ -80,33 +78,6 @@ header > h1 {
   padding:0;
 }
 
-div[role="mark"] {
-  padding: 0;
-  display: flex;
-  justify-content: space-between;
-  flex-wrap: wrap;
-  gap: 1rem;
-}
-
-nav, div[role="contentinfo"] {
-  background-color: var(--sub-heading-bg);
-  padding: 0 0.5rem;
-  display: flex;
-  justify-content: space-between;
-  flex-wrap: wrap;
-  gap: 1rem;
-}
-
-div[role="contentinfo"] {
-  color: rgba(33, 37, 41, 0.5);
-  font-size: smaller;
-}
-
-nav a {
-  text-decoration: none;
-  font-weight: bold;
-}
-
 article {
   padding: 0.5rem;
 }
@@ -115,7 +86,38 @@ section {
   margin-bottom: 1rem;
 }
 
+nav {
+  background-color: var(--sub-heading-bg);
+  padding: 0 0.5rem;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
 
+nav a {
+  text-decoration: none;
+  font-weight: bold;
+}
+
+div.info {
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+div.sub-footer {
+  background-color: var(--sub-heading-bg);
+  padding: 0 0.5rem;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 1rem;
+  color: rgba(33, 37, 41, 0.5);
+  font-size: smaller;
+}
 
 ul {
   list-style-type: none;

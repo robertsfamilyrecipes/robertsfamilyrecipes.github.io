@@ -32,20 +32,26 @@ ToDo List
 [Done] Change ingredients to a straight list
 [Done] canonical link <link rel="canonical" href="https://robertsfamilyrecipes.com">
 [Done] Change to templating rather than regex
-[InProgress] Split markdown into sections and reassemble in html
-* [ToDo] Annoying whitespace problem
+[Done] Split markdown into sections and reassemble in html
+[Done] Html validation
+* [Done] section should have heading
+* [Done] roles are silly
+* [Done] print format
+* [Done] single appearance of each tag 
 
-[ToDo] Standardised language and ingredients
+[InProgress] Standardised language and ingredients
 * [Done] 1 400g tin tomatoes, chopped
 * [Done] 225g chorizo
 * [Done] Pancake serves
 * [Done] ainsley words
 * [ToDo] salt and pepper
 
+
+[ToDo] Annoying whitespace problem
 [ToDo] favicon  <link rel="icon" type="image/png" href="favicon.png">
 [ToDO] Put picture in metadata
 [ToDo] Hero Icons https://github.com/tailwindlabs/heroicons
-[ToDo] Html validation
+
 [ToDo] CSS variables. https://www.w3schools.com/css/css3_variables.asp
 [ToDo] Look at bootstrap reset and apply
 * Set a max page width (768?)
