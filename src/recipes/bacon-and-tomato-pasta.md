@@ -1,23 +1,23 @@
 ---
-title: Easy Pasta
+title: Bacon and Tomato Pasta
 serves: 4
 duration: 45 min
 tags: 
 - main
 - pasta
 createdDate: 2026-02-12
-updatedDate:
+updatedDate: 2026-02-19
 ---
 
-This used to be out go to pasta recipe.  It is the basis for lots of the pasta sauces.  It takes quite a while to cook.
+This used to be out go to pasta recipe.  It takes quite a while to cook.
 
 ### Ingredients
 
 * olive oil
 * 1 pack bacon, cut in thin pieces
 * 1 onion, finely chopped
-* 2 garlic cloves, finley sliced.
-* 1 tin tomatoes, chopped
+* 2 garlic cloves, thinly sliced.
+* 1 400g tin tomatoes, chopped
 * &frac14; tsp brown sugar
 * &frac14; tsp chilli flakes
 * salt and pepper
