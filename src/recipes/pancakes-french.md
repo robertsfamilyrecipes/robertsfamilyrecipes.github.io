@@ -1,6 +1,6 @@
 ---
 title: Pancakes (French Style)
-serves: Makes about 16 pancakes
+serves: 16 pancakes
 duration: 30 min
 tags: 
 - desert
