@@ -35,10 +35,15 @@ ToDo List
 [InProgress] Split markdown into sections and reassemble in html
 * [ToDo] Annoying whitespace problem
 
+[ToDo] Standardised language and ingredients
+* [Done] 1 400g tin tomatoes, chopped
+* [Done] 225g chorizo
+* [Done] Pancake serves
+* [Done] ainsley words
+* [ToDo] salt and pepper
+
 [ToDo] favicon  <link rel="icon" type="image/png" href="favicon.png">
-
 [ToDO] Put picture in metadata
-
 [ToDo] Hero Icons https://github.com/tailwindlabs/heroicons
 [ToDo] Html validation
 [ToDo] CSS variables. https://www.w3schools.com/css/css3_variables.asp

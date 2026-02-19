@@ -21,7 +21,7 @@ This recipe is adapted from [The Top One Hundred Patsa Sauces by Diane Seed](htt
 * 25g butter
 * 1 onion, finely chopped
 * 2 garlic clove, finely sliced
-* 1 tin tomatoes
+* 1 400g tin tomatoes, chopped
 * &frac14; tsp sugar
 * 225g chorizo, diced
 * 200g tin sweetcorn, drained

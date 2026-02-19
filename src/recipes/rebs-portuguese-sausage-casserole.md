@@ -17,7 +17,7 @@ Family recipe from Reb Willis.  **Amount need refinement...this makes a lot**
 * 3 potatoes, peeled and chopped to 3cm cube
 * 6 tin beans (chick pea, kidney, borlotti, white)
 * 1 green pepper, chopped
-* 2 tin tomatoes, chopped
+* 2 400g tin tomatoes, chopped
 * 2 garlic cloves, thinly sliced
 * &frac12; tsp dried basil
 * &frac12; tsp dried thyme

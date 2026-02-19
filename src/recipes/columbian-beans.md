@@ -22,7 +22,7 @@ Adapted from [Columbian Bean by Erica Dinho](https://www.mycolombianrecipes.com/
 * 1 carrot, cut into battons
 * &frac12; potato, diced small
 * &frac12; banana, mashed
-* &frac12; tin tomatoes
+* &frac12; 400g tin tomatoes, chopped
 * chicken stock pot
 * 250ml water
 * salt and pepper

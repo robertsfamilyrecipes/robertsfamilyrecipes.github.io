@@ -26,7 +26,7 @@ https://www.amazon.co.uk/Ainsley-Harriotts-Friends-Family-Cookbook-ebook/dp/B01N
 * 2 garlic clove, thinly sliced
 * &frac12; tsp chipotle chilli flakes
 * &frac12; tsp dried oregano
-* 1 tin tomatoes
+* 1 400g tin tomatoes, chopped
 * &frac14; tsp sugar
 * salt and pepper
 * 500g short pasta (penne, fusilli etc.)
