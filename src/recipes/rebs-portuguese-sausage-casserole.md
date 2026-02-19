@@ -13,7 +13,7 @@ Family recipe from Reb Willis.  **Amount need refinement...this makes a lot**
 
 * 3 tbsp olive oil
 * 3 onions
-* 400g chorizo, diced
+* 225g chorizo, diced
 * 3 potatoes, peeled and chopped to 3cm cube
 * 6 tin beans (chick pea, kidney, borlotti, white)
 * 1 green pepper, chopped
