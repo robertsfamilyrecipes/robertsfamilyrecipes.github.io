@@ -1,7 +1,7 @@
 ---
 title: Janet's Potato Pie
 serves: 4
-duration: 3 1/2 - 4 hours
+duration: 4 hours
 tags: 
 - side
 createdDate: 2026-01-01

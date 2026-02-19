@@ -26,7 +26,7 @@ If you are scaling the recipe follow the proportions on the feta cheese carefull
 
 ### Method
 
-Set a frying pan on a medium heat, when warm add olive oil and sliced garlic.  Lets the garlic cook gently for 2 minutes, then remove from heat and allow the garlic to infuse.
+Heat a frying pan to medium-low, then add olive oil and sliced garlic.  Lets the garlic cook gently for 2 minutes, then remove from heat and allow the garlic to infuse.
 
 Cook the pasta following the packet directions.  I use 1 tbsp of salt for 1.5 litre of water.
 
