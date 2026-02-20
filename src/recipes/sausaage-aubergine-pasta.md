@@ -23,7 +23,7 @@ This recipe is adapted from [An A-Z of Pasta by Rachel Roddy](https://www.amazon
 * 1 pack (375g) thin sausage
 * 2 garlic clove, thinly sliced
 * 2 400g tin tomatoes, chopped
-* &frac12; tsp brown sugar
+* &frac12; tsp sugar
 * &frac12; tsp dried chillies
 * fresh basil, chopped
 * 50g ricotta cheese

@@ -57,6 +57,12 @@ ToDo List
 [ToDo] Hero Icons https://github.com/tailwindlabs/heroicons
 
 [ToDo] CSS variables. https://www.w3schools.com/css/css3_variables.asp
+[ToDo] Color 
+* palette https://colorhunt.co/palette/5749649f8383c8aaaaffdab3
+* colored links https://getbootstrap.com/docs/5.3/helpers/colored-links/
+[ToDo] List wrap
+* see rebs casserole for an example of where its needed on mobile
+* https://www.geeksforgeeks.org/css/how-to-set-indent-the-second-line-of-paragraph-using-css/
 [ToDo] Look at bootstrap reset and apply
 * Set a max page width (768?)
 * Screen res
