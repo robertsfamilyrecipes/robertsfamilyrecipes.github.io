@@ -13,7 +13,7 @@ updatedDate: 2026-02-19
 ![Bacon and Tomato Pasta](../images/2026-02-19-bacon-and-tomato-pasta.jpg)
 ^^^
 
-This used to be out go to pasta recipe.  It takes quite a while to cook.
+This used to be our go to pasta recipe.  It takes quite a while to cook.
 
 ### Ingredients
 
