@@ -37,7 +37,7 @@ ToDo List
 * [Done] section should have heading
 * [Done] roles are silly
 * [Done] print format
-* [Done] single appearance of each tag 
+* [Done] single appearance of each tag in css
 
 [InProgress] Standardised language and ingredients
 * [Done] 1 400g tin tomatoes, chopped
@@ -46,10 +46,14 @@ ToDo List
 * [Done] ainsley words
 * [ToDo] salt and pepper
 
+[ToDo] Put picture in metadata
+[ToDo] Make pictures work right on larger screen size
+[ToDo] Set maximum screen width (to be approx size of printed page)
+[ToDo] Dynamic header sizing so h1 fits on a phone
 
 [ToDo] Annoying whitespace problem
+[ToDo] What about line ending settings  
 [ToDo] favicon  <link rel="icon" type="image/png" href="favicon.png">
-[ToDO] Put picture in metadata
 [ToDo] Hero Icons https://github.com/tailwindlabs/heroicons
 
 [ToDo] CSS variables. https://www.w3schools.com/css/css3_variables.asp
@@ -70,8 +74,6 @@ ToDo List
 .button {
   background-color: color-mix(in srgb, red 50%, blue);
 }
-[ToDo] Limit image size on larger screens
-[ToDo] What about line ending settings  
 [ToDo] Print layout two column
 
 ```
