@@ -15,7 +15,7 @@ I've had a lot of difficulty with mac and cheese recipes, but this one [from red
 
 * 50g butter
 * 50g flour
-* 750ml blue milk
+* 750ml milk, full fat
 * 1 tsp smoked paprika
 * 1 tsp garlic powder
 * 1 tsp hot sauce
