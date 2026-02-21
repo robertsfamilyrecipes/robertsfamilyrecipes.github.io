@@ -45,6 +45,7 @@ ToDo List
 * [Done] Pancake serves
 * [Done] ainsley words
 * [ToDo] salt and pepper
+* [ToDo] 220g bacon
 
 [ToDo] Put picture in metadata
 [ToDo] Make pictures work right on larger screen size
