@@ -58,6 +58,15 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.2;
 }
 
+h1 {
+  font-size: calc(1.375rem + 1.5vw);
+}
+@media (min-width: 1200px) {
+  h1 {
+    font-size: 2.5rem;
+  }
+}
+
 body {
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;

@@ -47,9 +47,11 @@ ToDo List
 * [ToDo] salt and pepper
 * [ToDo] 220g bacon
 
+[InProgress] h1 heading size
+[ToDo] Set maximum screen width (to be approx size of printed page)
+
 [ToDo] Put picture in metadata
 [ToDo] Make pictures work right on larger screen size
-[ToDo] Set maximum screen width (to be approx size of printed page)
 [ToDo] Dynamic header sizing so h1 fits on a phone
 
 [ToDo] Annoying whitespace problem
