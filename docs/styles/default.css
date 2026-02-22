@@ -4,6 +4,7 @@
 /* see https://www.joshwcomeau.com/css/custom-css-reset/ */
 /* and https://medium.com/@rounakbajoriastar/creating-responsive-ui-without-a-framework-pure-html-css-guide-aad7530c9db1 */
 /* and https://easyhtmlcode.com/learncss/howto-make-print-link.html */
+/* and https://github.com/twbs/bootstrap/tree/main */
 /* ######### */
 
 /*
@@ -35,9 +36,19 @@
   }
 }
 
+figure > p {
+  display: flex;
+  align-items: space-around;
+  justify-content: center;
+}
+
+figure > figcaption {
+  text-align: center;
+}
+
 img, picture, video, canvas, svg {
   display: block;
-  max-width: 100%;
+  max-width: 320px;
 }
 
 input, button, textarea, select {

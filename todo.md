@@ -20,17 +20,17 @@ ToDo List
 * [Done] Fill in other metadata
 [Done] Change to use 1/2, 1/4 etc.
 [Done] Basic css on the site 
-[Done] Add instal to precommit, and make install idempotent
+[Done] Add install to precommit, and make install idempotent
 [Done] Navbar
 [Done] Print layout
 [Done] Style index page better 
 * last updated small and at bottom and better date
 * get rid of bullet points
-[Done] Want the print layout to be white background
+[Done] set print layout to be white background
 [Done] add created and update dates to the recipes
 [Done] Show cook time and serves
 [Done] Change ingredients to a straight list
-[Done] canonical link <link rel="canonical" href="https://robertsfamilyrecipes.com">
+[Done] add canonical link <link rel="canonical" href="https://robertsfamilyrecipes.com">
 [Done] Change to templating rather than regex
 [Done] Split markdown into sections and reassemble in html
 [Done] Html validation
@@ -46,13 +46,18 @@ ToDo List
 * [Done] ainsley words
 * [ToDo] salt and pepper
 * [ToDo] 220g bacon
+* [ToDo] Prawn and feta pasta - words
 
-[InProgress] h1 heading size
-[ToDo] Set maximum screen width (to be approx size of printed page)
+[Done] Set maximum screen width (to be approx size of printed page)
+* Screen res
+* iPad: 768 x 1024
+* Phone: 320 x 693 (weird I think it's wider than this)
+* Default font size is 16px allegedly.
+* Settled on 640px max width
+[InProgress] Dynamic header sizing so h1 fits on a phone
+[InProgress] Make pictures work right on larger screen size
 
 [ToDo] Put picture in metadata
-[ToDo] Make pictures work right on larger screen size
-[ToDo] Dynamic header sizing so h1 fits on a phone
 
 [ToDo] Annoying whitespace problem
 [ToDo] What about line ending settings  
@@ -63,17 +68,6 @@ ToDo List
 [ToDo] Color 
 * palette https://colorhunt.co/palette/5749649f8383c8aaaaffdab3
 * colored links https://getbootstrap.com/docs/5.3/helpers/colored-links/
-[ToDo] List wrap
-* see rebs casserole for an example of where its needed on mobile
-* https://www.geeksforgeeks.org/css/how-to-set-indent-the-second-line-of-paragraph-using-css/
-[ToDo] Look at bootstrap reset and apply
-* Set a max page width (768?)
-* Screen res
-* iPad: 768 x 1024
-* Phone: 320 x 693
-* Used clamp on the heading sizes (maybe on h1 needed)
-* Line height on heading (see reb casserole)
-* Default font size is 16px allegedly. Font size 12 for print?
 * Like the alert style font colouring in bootstrap
   * See here for definition of the background colours
   * https://github.com/twbs/bootstrap/blob/main/scss/_variables.scss
@@ -83,7 +77,12 @@ ToDo List
 .button {
   background-color: color-mix(in srgb, red 50%, blue);
 }
-[ToDo] Print layout two column
+[ToDo] List wrap
+* see rebs casserole for an example of where its needed on mobile
+* https://www.geeksforgeeks.org/css/how-to-set-indent-the-second-line-of-paragraph-using-css/
+[ToDo] Look at bootstrap reset and apply
+* Used clamp on the heading sizes (maybe on h1 needed)
+[ToDo] Print layout two column?
 
 ```
 .TrimEnd([char]"`r", [char]"`n")
