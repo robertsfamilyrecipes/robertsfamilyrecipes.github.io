@@ -55,8 +55,8 @@ ToDo List
 * Janet phone res 402x652
 * Default font size is 16px allegedly.
 * Settled on 640px max width
-[ToDo] Dynamic header sizing so h1 fits on a phone
-[ToDo] Make pictures work right on larger screen size
+[Done] Dynamic header sizing so h1 fits on a phone
+[Done] Make pictures work right on larger screen size
 [InProgress] Fix Make so print does not go to two pages with empty second page  https://stackoverflow.com/a/18815319
 [ToDo]  Bottom image wrong in Katsu, But ok in anisley… what dat about?  https://robertsfamilyrecipes.com/recipes/chicken-katsu-curry.html
 [ToDo] Heading still not fit right

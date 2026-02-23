@@ -41,5 +41,5 @@ Make the sauce.  When the veg is soft, use a stick blender to liquidate.  Then a
 Cook the chicken.  Heat the pan to hot.  Add oil and chicken, turn the heat to medium and cook for 5 min.  Flip, add a bit more oil and cook for another 5 min.  You will probably have to cook the chicken in batches, so keep the cooked chicken warn and wipe the pan clean after each cook.
 
 ^^^
-![Katsu Curry Cubes](../images/2026-02-13-katsu-curry-cubes.jpg) Katsu Curry Cubes - use the whole box
-^^^
+![Katsu Curry Cubes](../images/2026-02-13-katsu-curry-cubes.jpg)
+^^^ Katsu Curry Cubes - use the whole box

@@ -40,5 +40,5 @@ Cook the pasta following packet timings.  I use 1.5 litre of water and 1 tbsp sa
 Drain the pasta and mix in the sauce.  Serve.
 
 ^^^
-![Cooking Chorizo](../images/2026-02-16-cooking-chorizo.jpg) Cooking Chorizo
-^^^
+![Cooking Chorizo](../images/2026-02-16-cooking-chorizo.jpg) 
+^^^ Cooking Chorizo
