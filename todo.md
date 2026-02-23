@@ -57,11 +57,13 @@ ToDo List
 * Settled on 640px max width
 [Done] Dynamic header sizing so h1 fits on a phone
 [Done] Make pictures work right on larger screen size
-[InProgress] Fix Make so print does not go to two pages with empty second page  https://stackoverflow.com/a/18815319
-[ToDo]  Bottom image wrong in Katsu, But ok in anisley… what dat about?  https://robertsfamilyrecipes.com/recipes/chicken-katsu-curry.html
+[Done] Fix Make so print does not go to two pages with empty second page  https://stackoverflow.com/a/18815319
+[Done]  Bottom image wrong in Katsu, but ok in anisley… what dat about?  https://robertsfamilyrecipes.com/recipes/chicken-katsu-curry.html
+[Done] Image width overflowing
+[Done] Bootstrap breakpoints https://getbootstrap.com/docs/5.0/layout/breakpoints/
+[Done] Image would look better 100% on phone
+[Done] Images not wrapping when >=2 images
 [ToDo] Heading still not fit right
-[ToDo] Image width overflowing
-[ToDo] Bootstrap breakpoints https://getbootstrap.com/docs/5.0/layout/breakpoints/
 
   
 

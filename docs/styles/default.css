@@ -36,10 +36,16 @@
   }
 }
 
+figure {
+  overflow: hidden;
+}
+
 figure > p {
   display: flex;
   align-items: space-around;
   justify-content: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
 }
 
 figure > figcaption {
@@ -48,7 +54,13 @@ figure > figcaption {
 
 img, picture, video, canvas, svg {
   display: block;
-  max-width: 320px;
+  max-width: 100%;
+}
+
+@media (min-width: 576px) {
+  img, picture, video, canvas, svg {
+    max-width: calc(320px - 1rem);
+  }
 }
 
 input, button, textarea, select {
