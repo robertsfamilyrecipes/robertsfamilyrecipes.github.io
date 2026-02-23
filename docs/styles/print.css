@@ -10,3 +10,7 @@ header, footer, nav, figure, figcaption, img, div.sub-footer {
 article {
   padding: 0;
 }
+
+article > section:last-of-type {
+  margin-bottom: 0;
+}
