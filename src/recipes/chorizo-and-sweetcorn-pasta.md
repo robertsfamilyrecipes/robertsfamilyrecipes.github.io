@@ -14,7 +14,7 @@ updatedDate: 2026-02-16
 ^^^
 
 
-This recipe is adapted from [The Top One Hundred Patsa Sauces by Diane Seed](https://www.amazon.co.uk/Diane-Seed-Hundred-Pasta-Sauces/dp/B005Z54WLS/).
+This recipe is adapted from [The Top One Hundred Pasta Sauces by Diane Seed](https://www.amazon.co.uk/Diane-Seed-Hundred-Pasta-Sauces/dp/B005Z54WLS/).
 
 ### Ingredients
 
