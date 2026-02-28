@@ -9,7 +9,7 @@ updatedDate: 2026-02-21
 ---
 
 ^^^
-![Columbian chicken rice and beans](../images/2026-02-21-columbian-chicken-rice-and-beans.jpg)
+![Columbian chicken rice and beans](../images/2026-02-24-columbian-chicken-rice-and-beans.jpg)
 ^^^
 
 Adapted from [Columbian Beans by Erica Dinho](https://www.mycolombianrecipes.com/paisa-pinto-beans-frijoles-paisas/).  The original recipe is a long cook and uses plantain and pork hock, which are not easy to get hold of.  This is simplified version.
