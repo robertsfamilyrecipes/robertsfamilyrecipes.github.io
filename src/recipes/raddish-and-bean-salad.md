@@ -4,15 +4,17 @@ serves: 4 as a side
 duration: 15 min
 tags: 
 - side
-createdDate: 2025-06-06
+createdDate: 2025-02-06
+updatedDate: 2026-03-01
 ---
 
-
-Need to refine quantities
+^^^
+![Ainsley's Sausage Pasta](../images/2026-02-28-radish-and-bean-salad.jpg)
+^^^
 
 ### Ingredients
 
-* 1 tin cannelini beans, drained
+* 1 400g tin cannelini beans, drained
 * 6 radishes, sliced
 * 6 spring onions, chopped
 * 1 handful flat leaved parsley, chopped
@@ -23,7 +25,7 @@ Need to refine quantities
 
 ### Method
 
-Mix together the beans, radishes, spring onions, parsley.  Salt.
+Mix together the beans, radishes, spring onions, parsley.
 
 Whisk together the oil, vinegar and anchovy to make a dressing.
 
