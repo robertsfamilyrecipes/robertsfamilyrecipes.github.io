@@ -38,6 +38,23 @@ ToDo List
 * [Done] roles are silly
 * [Done] print format
 * [Done] single appearance of each tag in css
+[Done] Set maximum screen width (to be approx size of printed page)
+* Default font size is 16px
+* iPad: 768 x 1024
+* Mat Phone: 320 x 693 (=iphone4 res)
+* Janet phone res 402x652
+* Settled on 
+  * Max width 640px
+  * Min width 320px (that test against)
+[Done] Dynamic header sizing so h1 fits on a phone
+[Done] Make pictures work right on larger screen size
+[Done] Fix Make so print does not go to two pages with empty second page  https://stackoverflow.com/a/18815319
+[Done]  Bottom image wrong in Katsu, but ok in anisley… what dat about?  https://robertsfamilyrecipes.com/recipes/chicken-katsu-curry.html
+[Done] Image width overflowing
+[Done] Bootstrap breakpoints https://getbootstrap.com/docs/5.0/layout/breakpoints/
+[Done] Image would look better 100% on phone
+[Done] Images not wrapping when >=2 images
+[Done] Heading still not fit right, use clamp on heading size
 
 [InProgress] Standardised language and ingredients
 * [Done] 1 400g tin tomatoes, chopped
@@ -47,24 +64,6 @@ ToDo List
 * [ToDo] salt and pepper
 * [ToDo] 220g bacon
 * [ToDo] Prawn and feta pasta - words
-
-[Done] Set maximum screen width (to be approx size of printed page)
-* Screen res
-* iPad: 768 x 1024
-* Phone: 320 x 693 (weird I think it's wider than this)
-* Janet phone res 402x652
-* Default font size is 16px allegedly.
-* Settled on 640px max width
-[Done] Dynamic header sizing so h1 fits on a phone
-[Done] Make pictures work right on larger screen size
-[Done] Fix Make so print does not go to two pages with empty second page  https://stackoverflow.com/a/18815319
-[Done]  Bottom image wrong in Katsu, but ok in anisley… what dat about?  https://robertsfamilyrecipes.com/recipes/chicken-katsu-curry.html
-[Done] Image width overflowing
-[Done] Bootstrap breakpoints https://getbootstrap.com/docs/5.0/layout/breakpoints/
-[Done] Image would look better 100% on phone
-[Done] Images not wrapping when >=2 images
-[ToDo] Heading still not fit right
-
   
 
 [ToDo] Put picture in metadata
@@ -90,8 +89,6 @@ ToDo List
 [ToDo] List wrap
 * see rebs casserole for an example of where its needed on mobile
 * https://www.geeksforgeeks.org/css/how-to-set-indent-the-second-line-of-paragraph-using-css/
-[ToDo] Look at bootstrap reset and apply
-* Used clamp on the heading sizes (maybe on h1 needed)
 [ToDo] Print layout two column?
 
 ```
