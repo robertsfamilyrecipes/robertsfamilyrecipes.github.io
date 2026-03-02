@@ -7,6 +7,10 @@ tags:
 createdDate: 2026-01-18
 ---
 
+^^^
+![Sweetcorn Fritters](../images/2026-03-01-sweetcorn-fritters.jpg)
+^^^
+
 Makes 4 fritters as a side.
 
 ### Ingredients
@@ -29,3 +33,7 @@ Carefully fold the sweetcorn mixture into the egg whites.
 Heat a pan to medium hot.  Add vegetable oil and blob in the mixture to make 4 fritters.
 
 Cook for a few min until coloured, then flip the fitters and cook for another few min.
+
+^^^
+![Sweetcorn Fritters Batter](../images/2026-03-01-sweetcorn-fritters-prep.jpg) Sweetcorn Fritters Batter
+^^^
