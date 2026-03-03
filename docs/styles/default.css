@@ -59,7 +59,7 @@ img, picture, video, canvas, svg {
 
 @media (min-width: 576px) {
   img, picture, video, canvas, svg {
-    max-width: calc(320px - 1rem);
+    max-width: calc(320px - 0.75rem);
   }
 }
 
