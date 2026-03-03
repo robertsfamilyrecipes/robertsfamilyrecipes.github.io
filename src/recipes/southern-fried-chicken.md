@@ -45,8 +45,8 @@ Salt the chicken, then coat in the flour mix, then egg mix, then the breadcrumbs
 Cook in oven on 190&deg;C fan for 45 min.
 
 ^^^
-![Prepping Chicken](../images/2026-03-01-southern-fried-chicken-three-bowls.jpg)
 ![Prepped Chicken](../images/2026-03-01-souther-fried-chicken-prepped.jpg)
 ![Cooked Chicken](../images/2026-03-01-souther-fried-chicken-cooked.jpg)
+![Prepping Chicken](../images/2026-03-01-southern-fried-chicken-three-bowls.jpg)
 ^^^
 

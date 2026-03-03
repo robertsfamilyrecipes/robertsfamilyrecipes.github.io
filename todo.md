@@ -64,9 +64,18 @@ ToDo List
 * [ToDo] salt and pepper
 * [ToDo] 220g bacon
 * [ToDo] Prawn and feta pasta - words
-  
 
 [ToDo] Put picture in metadata
+
+[ToDo] Type scales
+* Label is normally a smaller font size
+* Major second 1.125 size ratio is very common
+* Normally with rounding to closest rem values
+* => label size of 14px
+
+[ToDo] List wrap
+* see rebs casserole for an example of where its needed on mobile
+* https://www.geeksforgeeks.org/css/how-to-set-indent-the-second-line-of-paragraph-using-css/
 
 [ToDo] Annoying whitespace problem
 [ToDo] What about line ending settings  
@@ -86,26 +95,10 @@ ToDo List
 .button {
   background-color: color-mix(in srgb, red 50%, blue);
 }
-[ToDo] List wrap
-* see rebs casserole for an example of where its needed on mobile
-* https://www.geeksforgeeks.org/css/how-to-set-indent-the-second-line-of-paragraph-using-css/
 [ToDo] Print layout two column?
 
 ```
 .TrimEnd([char]"`r", [char]"`n")
 ```
 
-```
-    # attempt to use the markdig ast parser...it's pretty difficult from powershell
-    # create the pipeline 
-    $pipelineBuilder = [MarkDig.MarkdownPipelineBuilder]::new()
-    [void][MarkDig.MarkdownExtensions]::UseAdvancedExtensions($pipelineBuilder)
-    $pipeline = $pipelineBuilder.Build()
-
-    # Parse the markdown
-    $document = [MarkDig.Markdown]::Parse($MarkDown, $pipeline)
-    $h2s = [MarkDig.Syntax.MarkdownObjectExtensions]::Descendants[Markdig.Syntax.HeadingBlock]($document) | Where-Object { $_.Level -eq 2 }
-    Write-Host $h2s.Inline[0]
-
-    $outHtml = [MarkDig.Markdown]::ToHtml($document, $pipeline)
-```    
+  

@@ -35,5 +35,5 @@ Heat a pan to medium hot.  Add vegetable oil and blob in the mixture to make 4 f
 Cook for a few min until coloured, then flip the fitters and cook for another few min.
 
 ^^^
-![Sweetcorn Fritters Batter](../images/2026-03-01-sweetcorn-fritters-prep.jpg) Sweetcorn Fritters Batter
-^^^
+![Sweetcorn Fritters Batter](../images/2026-03-01-sweetcorn-fritters-prep.jpg) 
+^^^ Sweetcorn Fritters Batter
