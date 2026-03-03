@@ -55,6 +55,14 @@ ToDo List
 [Done] Image would look better 100% on phone
 [Done] Images not wrapping when >=2 images
 [Done] Heading still not fit right, use clamp on heading size
+[Done] List wrap
+* see rebs casserole for an example of where its needed on mobile
+* https://www.geeksforgeeks.org/css/how-to-set-indent-the-second-line-of-paragraph-using-css/
+[Done] Type scales
+* Label is normally a smaller font size
+* Major second 1.125 size ratio is very common
+* Normally with rounding to closest rem values
+* => label size of 14px
 
 [InProgress] Standardised language and ingredients
 * [Done] 1 400g tin tomatoes, chopped
@@ -67,15 +75,9 @@ ToDo List
 
 [ToDo] Put picture in metadata
 
-[ToDo] Type scales
-* Label is normally a smaller font size
-* Major second 1.125 size ratio is very common
-* Normally with rounding to closest rem values
-* => label size of 14px
 
-[ToDo] List wrap
-* see rebs casserole for an example of where its needed on mobile
-* https://www.geeksforgeeks.org/css/how-to-set-indent-the-second-line-of-paragraph-using-css/
+
+
 
 [ToDo] Annoying whitespace problem
 [ToDo] What about line ending settings  
