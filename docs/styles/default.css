@@ -156,4 +156,6 @@ div.sub-footer {
 ul {
   list-style-type: none;
   padding: 0;
+  text-indent: -2rem;
+  padding-left: 2rem;
 }
