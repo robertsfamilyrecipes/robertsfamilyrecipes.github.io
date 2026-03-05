@@ -5,15 +5,20 @@ duration: 1 hour
 tags: 
 - main
 createdDate: 2026-03-01
-updatedDate:
+updatedDate: 2026-03-05
 ---
 
-Serve with rice.  **Amounts I think are for 8**
+^^^
+![Ainsley's Sausage Pasta](../images/2026-03-05-sausage-and-lentil.jpg)
+^^^
+
+
+Serve with rice and/or crusty bread.
 
 ### Ingredients
 
 * olive oil
-* 2 375g pack thin sausage
+* 1 375g pack thin sausage
 * 1 220g pack streaky bacon, diced
 * 1 onion
 * 1 carrot

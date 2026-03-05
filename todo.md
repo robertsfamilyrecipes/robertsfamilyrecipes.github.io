@@ -75,6 +75,16 @@ ToDo List
 
 [ToDo] Put picture in metadata
 
+[ToDo] Resize images
+* Want max size <300kB
+* Darktable export
+  * sRGB
+  * 640px width
+  * 87% jpeg quality
+  * high quality resampling
+  * => 177kB
+
+
 
 
 
