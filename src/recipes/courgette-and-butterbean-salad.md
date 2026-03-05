@@ -12,8 +12,9 @@ From [bbc good food](https://www.bbc.co.uk/food/recipes/courgette_and_butter_611
 
 ### Ingredients
 
-* 1 400g tin butter beans, drained
 * 2 courgette, thin slices
+* 1 400g tin butter beans, drained
+* salt and pepper
 * 1 garlic clove, crushed
 * 1 lemon, zest and juice
 * 2 tbsp olive oil
@@ -25,10 +26,9 @@ From [bbc good food](https://www.bbc.co.uk/food/recipes/courgette_and_butter_611
 * 2 spring onions, chopped
 * 100g feta cheese, diced
 * 4 tbsp toasted almond flakes
-* salt and pepper
 
 ### Method
 
 Cook the courgette.  Put the slices of courgette on an oven tray with olive oil and salt and cremate in the oven on 200&deg;C for 30 min.
 
-Make the salad.  Mix the beans with salt, pepper, lemon juice, lemon zest, olive oil, chilli flakes.  Leave to marinate for 5 min.  Then mix in parsley, mint, basil, olives, spring onions and feta.  Add the courgettes and mix again.
+Make the salad.  But the beans in a bowl, then work down the ingredients list mixing in.  Add the courgettes and mix again.
