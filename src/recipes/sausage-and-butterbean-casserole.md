@@ -1,5 +1,5 @@
 ---
-title: Sauaseand and Butterbean Casserole
+title: Sausage and Butterbean Casserole
 serves: 4
 duration: 1 hour
 tags: 
