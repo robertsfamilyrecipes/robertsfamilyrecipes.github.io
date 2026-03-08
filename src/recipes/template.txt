@@ -8,6 +8,9 @@ createdDate:
 updatedDate:
 ---
 
+^^^
+![Ainsley's Sausage Pasta](../images/ainsleys-sauseage-pasta.jpg)
+^^^
 
 ** Rename to md
 
