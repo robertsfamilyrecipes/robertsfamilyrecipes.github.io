@@ -76,7 +76,7 @@ ToDo List
 [ToDo] Put picture in metadata
 
 [ToDo] Resize images
-* Want max size <300kB
+* Want max size <300kB, see e.g. https://www.allianceinteractive.com/blog/website-dimensions/
 * Darktable export
   * sRGB
   * 640px width
