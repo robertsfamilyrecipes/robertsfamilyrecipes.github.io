@@ -8,12 +8,12 @@ createdDate: 2026-02-01
 updatedDate: 2026-02-19
 ---
 
+^^^
+![Ainsley's Sausage Pasta](../images/2026-02-02-ainsley-sausage-pasta.jpg)
+^^^
+
 This recipe is from [Ainsley Harriott's Friends & Family Cookbook](
 https://www.amazon.co.uk/Ainsley-Harriotts-Friends-Family-Cookbook-ebook/dp/B01N024L5G/).  He also has a version in his [Feel-Good Cookbook](https://www.amazon.co.uk/Feel-Good-Cookbook-Ainsley-Harriott-ebook/dp/B01NCS42MS/).  A pack of sausage normally weighs 375g, so this recipe uses 1&frac12; pack.  I normally cook double the recipe here, with 3 pack of sausage.
-
-^^^
-![Ainsley's Sausage Pasta](../images/ainsleys-sauseage-pasta.jpg)
-^^^
 
 ### Ingredients
 
@@ -44,5 +44,5 @@ Add the sausages.  Using scissors cut the sausages into the sauce, you should ge
 Cook the pasta following the packet timings.  I use 1 tbsp of table salt for 1.5 litre of water.
 
 ^^^
-![deglazing the sausage pan](../images/deglaze-sausage-pan.jpg)
+![deglazing the sausage pan](../images/2026-02-02-deglase-sauseage-pan.jpg)
 ^^^ Deglazing the sausage pan

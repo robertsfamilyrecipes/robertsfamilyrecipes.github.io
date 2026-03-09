@@ -7,11 +7,11 @@ tags:
 createdDate: 2020-05-26
 ---
 
-This recipe is from [Hello! Good Cooking by Jill Cox](https://www.amazon.co.uk/gp/product/0747278946/).  I serve it with [mini roasties](./mini-roasties.html) and [broccoli](./broccoli.html).
+^^^
+![Chicken Kiev](../images/2020-05-24-chicken-kiev.jpg)
+^^^
 
-^^^
-![Chicken Kiev](../images/chicken-kiev.jpg)
-^^^
+This recipe is from [Hello! Good Cooking by Jill Cox](https://www.amazon.co.uk/gp/product/0747278946/).  Serve with [mini roasties](./mini-roasties.html) and [broccoli](./broccoli.html).
 
 ### Ingredients
 
