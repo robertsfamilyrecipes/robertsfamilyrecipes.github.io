@@ -5,8 +5,13 @@ duration: 1 hour
 tags: 
 - main
 createdDate: 2026-03-08
-updatedDate:
+updatedDate: 2026-03-09
 ---
+
+^^^
+![Sausage and Butterbean Casserole](../images/2026-03-09-sausage-and-butterbean-casserole.jpg)
+^^^
+
 
 From [BBC Food by Tom Kitchen](https://www.bbc.co.uk/food/recipes/sausage_and_butterbean_96450)
 Serve with chunky chips and broccoli.
@@ -20,9 +25,10 @@ Serve with chunky chips and broccoli.
 * 1 400g tin butter beans, rinsed and drained
 * handful parsley, chopped
 * 2 400g tin tomatoes, chopped
+* &frac12; tsp sugar
 * 1 chicken stock pot
 * salt and pepper
-_Topping_
+* _Topping_
 * 180g panko breadcrumbs
 * handful parsley, chopped
 * olive oil
