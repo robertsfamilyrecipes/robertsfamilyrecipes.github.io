@@ -5,8 +5,12 @@ duration: 45 min
 tags: 
 - side
 createdDate: 2026-03-04 
-updatedDate:
+updatedDate: 2026-03-09
 ---
+
+^^^
+![Ainsley's Sausage Pasta](../images/2026-03-08-courgette-and-butterbean-salad.jpg)
+^^^
 
 From [bbc good food](https://www.bbc.co.uk/food/recipes/courgette_and_butter_61120)
 
@@ -25,7 +29,7 @@ From [bbc good food](https://www.bbc.co.uk/food/recipes/courgette_and_butter_611
 * 100g green olives, chopped
 * 2 spring onions, chopped
 * 100g feta cheese, diced
-* 4 tbsp toasted almond flakes
+* 2 tbsp toasted almond flakes
 
 ### Method
 
