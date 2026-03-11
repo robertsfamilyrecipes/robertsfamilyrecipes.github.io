@@ -9,7 +9,7 @@ updatedDate: 2026-03-09
 ---
 
 ^^^
-![Sausage and Butterbean Casserole](../images/2026-03-09-sausage-and-butterbean-casserole.jpg)
+![Sausage and Butterbean Casserole](../images/2026-03-11-sausage-and-butterbean-meal.jpg)
 ^^^
 
 

@@ -6,7 +6,12 @@ tags:
 - side
 - basics
 createdDate: 2020-05-29
+updatedDate: 2026-03-11
 ---
+
+^^^
+![Broccoli](../images/2026-03-11-broccoli.jpg)
+^^^
 
 You **need a timer**.  The broccoli cooks for 3 minutes.  If you cook for an extra 30 seconds, it goes mushy and tastes disgusting.
 
@@ -26,3 +31,6 @@ Add broccoli to the pan, start the timer, and cook for **3 minutes**.  Cover the
 
 Drain in a colander.
 
+^^^
+![Broccoli](../images/2026-03-11-broccoli-in-colendar.jpg)
+^^^ Broccoli drained

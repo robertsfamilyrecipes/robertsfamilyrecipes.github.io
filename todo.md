@@ -63,6 +63,14 @@ ToDo List
 * Major second 1.125 size ratio is very common
 * Normally with rounding to closest rem values
 * => label size of 14px
+[Done] Resize images
+* Want max size <300kB, see e.g. https://www.allianceinteractive.com/blog/website-dimensions/
+* Darktable export
+  * sRGB
+  * 640px width
+  * 87% jpeg quality
+  * high quality resampling
+  * => 177kB
 
 [InProgress] Standardised language and ingredients
 * [Done] 1 400g tin tomatoes, chopped
@@ -74,19 +82,6 @@ ToDo List
 * [ToDo] Prawn and feta pasta - words
 
 [ToDo] Put picture in metadata
-
-[ToDo] Resize images
-* Want max size <300kB, see e.g. https://www.allianceinteractive.com/blog/website-dimensions/
-* Darktable export
-  * sRGB
-  * 640px width
-  * 87% jpeg quality
-  * high quality resampling
-  * => 177kB
-
-
-
-
 
 
 [ToDo] Annoying whitespace problem

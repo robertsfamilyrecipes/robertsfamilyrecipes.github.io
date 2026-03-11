@@ -5,8 +5,13 @@ duration: 1 hour
 tags: 
 - basics
 createdDate: 2026-03-09
-updatedDate:
+updatedDate: 2026-03-11
 ---
+
+^^^
+![Chunky Chips](../images/2026-03-11-chunky-chips-cooked.jpg)
+^^^
+
 
 ### Ingredients
 
@@ -21,5 +26,5 @@ Cut the potatoes into wedges, and place on an oiled oven tray.  Sprinkle with sa
 Cook in oven on 180&deg;C fan for 45 min.  Flip after 20 min and again near the end.
 
 ^^^
-![Chips before cooking](../images/2026-03-09-chunky-chips-raw.jpg) 
-^^^ Chunky chips for two
+![Chips before cooking](../images/2026-03-11-chunky-chips-raw.jpg) 
+^^^ Chunky chips raw
