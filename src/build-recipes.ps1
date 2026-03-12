@@ -15,6 +15,12 @@ function Build-Article {
     }
     $replacements = @{
         title = $metadata.title;
+        photo = ([bool]$metadata['photo'] -eq $false ? "" :
+@"
+<figure>
+<p><img src="$($metadata.photo)" alt="$($metadata.title)" /></p>
+</figure>
+"@);        
         canonical = "https://robertsfamilyrecipes.com/recipes/$($SourceFile.BaseName).html";
         serves = "Serves: $($metadata.serves)";
         duration = "Cook Time: $($metadata.duration)";

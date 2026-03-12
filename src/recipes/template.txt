@@ -1,5 +1,6 @@
 ---
 title: 
+photo:
 serves: 4
 duration: 15 min
 tags: 

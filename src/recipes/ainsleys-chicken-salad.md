@@ -1,16 +1,14 @@
 ---
 title: Ainsley's Chicken Salad
+photo: ../images/2026-03-06-ainselys-chicken-salad.jpg
 serves: 2
 duration: 45 min
 tags: 
 - main
 createdDate: 2026-03-08
 updatedDate:
----
 
-^^^
-![Ainsley's Sausage Pasta](../images/2026-03-06-ainselys-chicken-salad.jpg)
-^^^
+---
 
 This recipe is from [Ainsley Harriott's Friends & Family Cookbook](
 https://www.amazon.co.uk/Ainsley-Harriotts-Friends-Family-Cookbook-ebook/dp/B01N024L5G/). 

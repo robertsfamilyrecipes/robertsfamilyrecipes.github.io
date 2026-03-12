@@ -81,7 +81,8 @@ ToDo List
 * [ToDo] 220g bacon
 * [ToDo] Prawn and feta pasta - words
 
-[ToDo] Put picture in metadata
+[InProgress] Put picture in metadata
+[ToDo] Move and restyle the serves and cook-time
 
 
 [ToDo] Annoying whitespace problem
