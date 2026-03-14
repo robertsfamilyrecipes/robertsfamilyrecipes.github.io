@@ -11,8 +11,6 @@ createdDate: 2026-01-18
 ![Sweetcorn Fritters](../images/2026-03-01-sweetcorn-fritters.jpg)
 ^^^
 
-Makes 4 fritters as a side.
-
 ### Ingredients
 
 * 1 egg
