@@ -138,10 +138,12 @@ nav a {
 
 div.info {
   padding: 0;
+  margin-bottom: 0.5rem;
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
   gap: 1rem;
+  font-size: var(--font-size-sm);
 }
 
 div.sub-footer {

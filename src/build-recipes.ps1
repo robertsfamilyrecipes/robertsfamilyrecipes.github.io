@@ -14,16 +14,15 @@ function Build-Article {
         ConvertFrom-MarkDig $_
     }
     $replacements = @{
+        canonical = "https://robertsfamilyrecipes.com/recipes/$($SourceFile.BaseName).html";
         title = $metadata.title;
         photo = ([bool]$metadata['photo'] -eq $false ? "" :
 @"
 <figure>
 <p><img src="$($metadata.photo)" alt="$($metadata.title)" /></p>
 </figure>
-"@);        
-        canonical = "https://robertsfamilyrecipes.com/recipes/$($SourceFile.BaseName).html";
-        serves = "Serves: $($metadata.serves)";
-        duration = "Cook Time: $($metadata.duration)";
+"@);
+        info = "<div class='info'><div>Serves: $($metadata.serves)</div><div>Cook Time: $($metadata.duration)</div></div>";
         intro = $intro;
         sections = $sections;
         createdDate = "Created: $($metadata.createdDate)";
