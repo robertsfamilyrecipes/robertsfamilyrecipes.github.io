@@ -1,5 +1,6 @@
 ---
 title: Black Bean Salad
+photo:
 serves: 4 as a side
 duration: 15 min
 tags: 

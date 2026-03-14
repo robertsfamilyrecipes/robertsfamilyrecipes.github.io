@@ -1,5 +1,6 @@
 ---
 title: Chorizo and Sweetcorn Pasta
+photo: ../images/2026-02-16-chorizo-and-sweetcorn-pasta.jpg
 serves: 4
 duration: 45 min
 tags: 
@@ -8,11 +9,6 @@ tags:
 createdDate: 2026-02-09 
 updatedDate: 2026-02-16
 ---
-
-^^^
-![Chorizo and Sweetcorn Pasta](../images/2026-02-16-chorizo-and-sweetcorn-pasta.jpg)
-^^^
-
 
 This recipe is adapted from [The Top One Hundred Pasta Sauces by Diane Seed](https://www.amazon.co.uk/Diane-Seed-Hundred-Pasta-Sauces/dp/B005Z54WLS/).
 

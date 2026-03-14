@@ -1,5 +1,6 @@
 ---
 title: Cucumber and Radish Pickle
+photo: ../images/2026-02-13-cucumber-and-raddish-pickle.jpg
 serves: 4 as a side
 duration: 10 min
 tags: 
@@ -7,10 +8,6 @@ tags:
 createdDate: 2026-01-25 
 updatedDate: 2026-02-15
 ---
-
-^^^
-![Cucumber and Radish Pickle](../images/2026-02-13-cucumber-and-raddish-pickle.jpg)
-^^^
 
 I normally make this as a side with [Chicken Katsu Curry](./chicken-katsu-curry.html)
 

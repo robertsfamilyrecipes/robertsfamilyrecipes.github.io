@@ -1,5 +1,6 @@
 ---
 title: Quick Salsa
+photo:
 serves: 4 as a side
 duration: 10 min
 tags: 

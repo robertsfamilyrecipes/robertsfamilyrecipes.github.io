@@ -1,5 +1,6 @@
 ---
 title: Bacon and Orange Cheese Pasta
+photo: ../images/2026-03-07-bacon-and-orange-cheese.jpg
 serves: 2
 duration: 15 min
 tags: 
@@ -8,10 +9,6 @@ tags:
 createdDate: 2026-03-05
 updatedDate: 2026-03-08
 ---
-
-^^^
-![Bacon and orange cheese](../images/2026-03-07-bacon-and-orange-cheese.jpg)
-^^^
 
 This recipe is quick to make.  A box of tomatoes weighs 250g, so in this recipe you want to use &frac23;-&frac34; of a box.
 

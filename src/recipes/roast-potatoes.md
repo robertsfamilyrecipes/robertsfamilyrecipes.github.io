@@ -1,5 +1,6 @@
 ---
 title: Roast Potatoes
+photo: ../images/2026-03-01-roast-potatoes.jpg
 serves: 4
 duration: 1 hour 30 min
 tags: 
@@ -7,10 +8,6 @@ tags:
 createdDate: 2026-03-01
 updatedDate: 2026-03-02
 ---
-
-^^^
-![Roast Potatoes](../images/2026-03-01-roast-potatoes.jpg)
-^^^
 
 ### Ingredients
 

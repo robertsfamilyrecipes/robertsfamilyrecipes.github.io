@@ -1,5 +1,6 @@
 ---
 title: Chicken and Bacon Club
+photo: ../images/2026-02-20-chicken-and-bacon-club.jpg
 serves: 4
 duration: 45 min
 tags: 
@@ -7,10 +8,6 @@ tags:
 createdDate: 2026-02-17
 updatedDate: 2026-02-20
 ---
-
-^^^
-![Chicken and bacon club](../images/2026-02-20-chicken-and-bacon-club.jpg)
-^^^
 
 This is an attempt to recreate the chicken and bacon club sandwich from Costa Coffee circa 2010.  The recipe is really too much to make in one go, you kinda need to have the [pasta sauce](./bacon-and-tomato-pasta.html) left over from a previous day.  Serve with chips. 
 

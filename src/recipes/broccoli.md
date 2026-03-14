@@ -1,5 +1,6 @@
 ---
 title: Broccoli
+photo: ../images/2026-03-11-broccoli.jpg
 serves: 4 as a side
 duration: 10 min
 tags: 
@@ -8,10 +9,6 @@ tags:
 createdDate: 2020-05-29
 updatedDate: 2026-03-11
 ---
-
-^^^
-![Broccoli](../images/2026-03-11-broccoli.jpg)
-^^^
 
 You **need a timer**.  The broccoli cooks for 3 minutes.  If you cook for an extra 30 seconds, it goes mushy and tastes disgusting.
 

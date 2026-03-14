@@ -1,5 +1,6 @@
 ---
 title: Pancakes (French Style)
+photo: ../images/2026-02-17-pancake.jpg
 serves: 16 pancakes
 duration: 30 min
 tags: 
@@ -7,10 +8,6 @@ tags:
 createdDate: 2026-02-16
 updatedDate: 2026-02-17
 ---
-
-^^^
-![Pancake](../images/2026-02-17-pancake.jpg)
-^^^
 
 Thin french style pancake from Sophie Pitner.
 

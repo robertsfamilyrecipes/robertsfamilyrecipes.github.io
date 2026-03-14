@@ -1,5 +1,6 @@
 ---
-title: Reb's Portuguese Sausage Casserole 
+title: Reb's Portuguese Sausage Casserole
+photo:
 serves: 4-6
 duration: 2 hour
 tags: 

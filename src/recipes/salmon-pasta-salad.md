@@ -1,5 +1,6 @@
 ---
 title: Salmon Pasta Salad
+photo:
 serves: 4
 duration: 20 min
 tags:

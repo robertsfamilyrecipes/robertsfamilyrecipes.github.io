@@ -1,5 +1,6 @@
 ---
 title: Chicken Katsu Curry
+photo: ../images/2026-02-13-chicken-katsu-curry.jpg
 serves: 4
 duration: 1 hour
 tags: 
@@ -7,10 +8,6 @@ tags:
 createdDate: 2026-02-12 
 updatedDate: 2026-02-16
 ---
-
-^^^
-![Chicken Katsu Curry](../images/2026-02-13-chicken-katsu-curry.jpg)
-^^^
 
 From [Japan Centre](https://www.japancentre.com/en/recipe/301-japanese-chicken-katsu-curry).  Serve with rice and [cucumber and radish pickle](./cucumber-and-raddish-pickle.html).  
 

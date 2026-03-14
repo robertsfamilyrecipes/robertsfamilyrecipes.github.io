@@ -1,15 +1,12 @@
 ---
 title: Chicken Kiev
+photo: ../images/2020-05-24-chicken-kiev.jpg
 serves: 4
 duration: 1.5 hour
 tags: 
 - main
 createdDate: 2020-05-26
 ---
-
-^^^
-![Chicken Kiev](../images/2020-05-24-chicken-kiev.jpg)
-^^^
 
 This recipe is from [Hello! Good Cooking by Jill Cox](https://www.amazon.co.uk/gp/product/0747278946/).  Serve with [mini roasties](./mini-roasties.html) and [broccoli](./broccoli.html).
 

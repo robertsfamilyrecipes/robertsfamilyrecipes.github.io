@@ -1,5 +1,6 @@
 ---
 title: Chunky Chips
+photo: ../images/2026-03-11-chunky-chips-cooked.jpg
 serves: 4
 duration: 1 hour
 tags: 
@@ -7,11 +8,6 @@ tags:
 createdDate: 2026-03-09
 updatedDate: 2026-03-11
 ---
-
-^^^
-![Chunky Chips](../images/2026-03-11-chunky-chips-cooked.jpg)
-^^^
-
 
 ### Ingredients
 

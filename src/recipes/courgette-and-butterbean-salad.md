@@ -1,5 +1,6 @@
 ---
 title: Courgette and butter bean salad
+photo: ../images/2026-03-08-courgette-and-butterbean-salad.jpg
 serves: 4
 duration: 45 min
 tags: 
@@ -7,10 +8,6 @@ tags:
 createdDate: 2026-03-04 
 updatedDate: 2026-03-09
 ---
-
-^^^
-![Ainsley's Sausage Pasta](../images/2026-03-08-courgette-and-butterbean-salad.jpg)
-^^^
 
 From [bbc good food](https://www.bbc.co.uk/food/recipes/courgette_and_butter_61120)
 

@@ -1,5 +1,6 @@
 ---
 title: Prawn and feta pasta
+photo:
 serves: 4
 duration: 20-25 min
 tags: 

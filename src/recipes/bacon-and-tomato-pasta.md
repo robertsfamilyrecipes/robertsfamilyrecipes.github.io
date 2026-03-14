@@ -1,5 +1,6 @@
 ---
 title: Bacon and Tomato Pasta
+photo: ../images/2026-02-19-bacon-and-tomato-pasta.jpg
 serves: 4
 duration: 1 hour
 tags: 
@@ -8,10 +9,6 @@ tags:
 createdDate: 2026-02-12
 updatedDate: 2026-02-19
 ---
-
-^^^
-![Bacon and Tomato Pasta](../images/2026-02-19-bacon-and-tomato-pasta.jpg)
-^^^
 
 This used to be our go to pasta recipe.  It takes quite a while to cook.
 

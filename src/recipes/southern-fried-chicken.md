@@ -1,5 +1,6 @@
 ---
 title: Southern Fried Chicken
+photo: ../images/2026-03-01-southern-fried-chicken-meal.jpg
 serves: 4
 duration: 1 hour 15 min
 tags: 
@@ -7,10 +8,6 @@ tags:
 createdDate: 2026-02-28
 updatedDate: 2026-03-02
 ---
-
-^^^
-![Southern Fried Chicken Meal](../images/2026-03-01-southern-fried-chicken-meal.jpg)
-^^^
 
 Proper southern friend chicken is deep fried, but that scares me so this is a version cooked in the oven.  The oven style cooking is from [Delia Smiths Complete Cookery Course](https://www.amazon.co.uk/Delias-Complete-Cookery-Course-Classic/dp/0563362499/) and the spice mix from [reddit](https://www.reddit.com/r/PornhubComments/comments/gw1n3p/the_secret_revealed/).  Serve with [roast potatoes](./roast-potatoes.html), [sweetcorn fritters](./sweetcorn-fritters.html) and [coleslaw](./coleslaw-chick-fil-a.html).
 

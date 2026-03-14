@@ -1,5 +1,6 @@
 ---
-title: Spanish Beans 
+title: Spanish Beans
+photo:
 serves: 4 as a side
 duration: 30 min
 tags: 

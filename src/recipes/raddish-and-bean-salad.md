@@ -1,5 +1,6 @@
 ---
-title: Radish and Bean Salad 
+title: Radish and Bean Salad
+photo: ../images/2026-02-28-radish-and-bean-salad.jpg
 serves: 4 as a side
 duration: 15 min
 tags: 
@@ -7,10 +8,6 @@ tags:
 createdDate: 2025-02-06
 updatedDate: 2026-03-01
 ---
-
-^^^
-![Ainsley's Sausage Pasta](../images/2026-02-28-radish-and-bean-salad.jpg)
-^^^
 
 ### Ingredients
 

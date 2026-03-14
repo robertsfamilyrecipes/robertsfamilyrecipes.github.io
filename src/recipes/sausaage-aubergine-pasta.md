@@ -1,5 +1,6 @@
 ---
 title: Sausage and Aubergine Pasta
+photo: ../images/2026-02-09-sauasage-and-aubergine-pasta.jpg
 serves: 4
 duration: 1 hour
 tags: 
@@ -10,11 +11,6 @@ updatedDate: 2026-02-09
 ---
 
 This recipe is adapted from [An A-Z of Pasta by Rachel Roddy](https://www.amazon.co.uk/Z-Pasta-Stories-Shapes-Recipes/dp/0241402506/).
-
-^^^
-![Sausage and Aubergine Pasta](../images/2026-02-09-sauasage-and-aubergine-pasta.jpg)
-^^^
-
 
 ### Ingredients
 

@@ -1,15 +1,12 @@
 ---
 title: Sweetcorn Fritters
+photo: ../images/2026-03-01-sweetcorn-fritters.jpg
 serves: 4 as a side
 duration: 15 min
 tags: 
 - side
 createdDate: 2026-01-18
 ---
-
-^^^
-![Sweetcorn Fritters](../images/2026-03-01-sweetcorn-fritters.jpg)
-^^^
 
 ### Ingredients
 

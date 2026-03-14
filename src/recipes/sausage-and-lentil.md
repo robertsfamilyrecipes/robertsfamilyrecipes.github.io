@@ -1,5 +1,6 @@
 ---
 title: Sausage and Lentil Casserole
+photo: ../images/2026-03-05-sausage-and-lentil.jpg
 serves: 4
 duration: 1 hour
 tags: 
@@ -7,11 +8,6 @@ tags:
 createdDate: 2026-03-01
 updatedDate: 2026-03-05
 ---
-
-^^^
-![Ainsley's Sausage Pasta](../images/2026-03-05-sausage-and-lentil.jpg)
-^^^
-
 
 Serve with rice and/or crusty bread.
 

@@ -1,5 +1,6 @@
 ---
 title: Thai Cucumber Salad
+photo:
 serves: 4
 duration: 10 min
 tags: 

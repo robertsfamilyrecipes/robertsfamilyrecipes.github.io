@@ -1,5 +1,6 @@
 ---
 title: Sausage and Butterbean Casserole
+photo: ../images/2026-03-11-sausage-and-butterbean-meal.jpg
 serves: 4
 duration: 1 hour
 tags: 
@@ -7,11 +8,6 @@ tags:
 createdDate: 2026-03-08
 updatedDate: 2026-03-09
 ---
-
-^^^
-![Sausage and Butterbean Casserole](../images/2026-03-11-sausage-and-butterbean-meal.jpg)
-^^^
-
 
 From [BBC Food by Tom Kitchen](https://www.bbc.co.uk/food/recipes/sausage_and_butterbean_96450)
 Serve with [chunky chips](./chunky-chips.html) and [broccoli](./broccoli.html).

@@ -1,5 +1,6 @@
 ---
 title: Chef's Salad
+photo: ../images/2026-02-27-chefs-salad.jpg
 serves: 4
 duration: 30 min
 tags: 
@@ -7,11 +8,6 @@ tags:
 createdDate: 2026-02-22
 updatedDate: 2026-02-28
 ---
-
-^^^
-![Chefs Salad](../images/2026-02-27-chefs-salad.jpg)
-^^^
-
 
 This was the gateway salad for me...I realised you could make a salad a meal, and put in it whatever you want.  I no longer remember where I learnt it from.
 

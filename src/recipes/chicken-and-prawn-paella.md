@@ -11,7 +11,6 @@ updatedDate:
 
 By Jamie Olive from a Sainsbury Recipe Card 2002.
 
-
 ### Ingredients
 
 * chicken stock pot

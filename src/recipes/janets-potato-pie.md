@@ -1,5 +1,6 @@
 ---
 title: Janet's Potato Pie
+photo:
 serves: 4
 duration: 4 hours
 tags: 

@@ -1,5 +1,6 @@
 ---
 title: Cauliflower cheese
+photo:
 serves: 4 as a side
 duration: 45 min
 tags: 

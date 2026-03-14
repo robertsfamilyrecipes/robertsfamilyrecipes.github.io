@@ -1,5 +1,6 @@
 ---
 title: Christmas Pudding
+photo:
 serves: 10
 duration: 6 hours + 2 hour
 tags: 

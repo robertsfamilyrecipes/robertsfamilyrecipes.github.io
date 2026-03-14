@@ -1,5 +1,6 @@
 ---
 title: Mini Roasties
+photo:
 serves: 4
 duration: 1 hour
 tags: 
