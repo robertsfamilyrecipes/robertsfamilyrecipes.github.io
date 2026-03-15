@@ -163,3 +163,28 @@ ul {
   text-indent: -2rem;
   padding-left: 2rem;
 }
+
+.icon {
+  display: inline-block;
+  background-size: contain; /* or cover */
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.mr-1 {
+  margin-right: 0.25rem;
+}
+
+.icon::after{
+  content: 'M';
+  visibility: hidden;
+}
+
+.clock {
+  background-image: url("./clock.svg");
+}
+
+.user {
+  background-image: url("./user.svg");
+}
+

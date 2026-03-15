@@ -3,7 +3,7 @@ body {
   max-width:none;
 }
 
-header, footer, nav, figure, figcaption, img, div.sub-footer {
+header, footer, nav, figure, figcaption, img, div.sub-footer, .icon {
   display:none;
 }
 
@@ -14,3 +14,4 @@ article {
 article > section:last-of-type {
   margin-bottom: 0;
 }
+

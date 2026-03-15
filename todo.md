@@ -82,13 +82,14 @@ ToDo List
 * [ToDo] Prawn and feta pasta - words
 
 [Done] Put picture in metadata
-[InProgress] Move and restyle the serves and cook-time
+[Done] Move and restyle the serves and cook-time
+[Done] Hero Icons https://github.com/tailwindlabs/heroicons
+[ToDo] Print icon in body
 
 
 [ToDo] Annoying whitespace problem
 [ToDo] What about line ending settings  
 [ToDo] favicon  <link rel="icon" type="image/png" href="favicon.png">
-[ToDo] Hero Icons https://github.com/tailwindlabs/heroicons
 
 [ToDo] CSS variables. https://www.w3schools.com/css/css3_variables.asp
 [ToDo] Color 
@@ -109,4 +110,7 @@ ToDo List
 .TrimEnd([char]"`r", [char]"`n")
 ```
 
-  
+  <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M12 6v6h4.5m4.5 0a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z" />
+</svg>
+

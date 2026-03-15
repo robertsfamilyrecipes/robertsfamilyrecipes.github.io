@@ -22,7 +22,7 @@ function Build-Article {
 <p><img src="$($metadata.photo)" alt="$($metadata.title)" /></p>
 </figure>
 "@);
-        info = "<div class='info'><div>Serves: $($metadata.serves)</div><div>Cook Time: $($metadata.duration)</div></div>";
+        info = "<div class='info'><div><i class='icon user mr-1'></i>Serves: $($metadata.serves)</div><div><i class='icon clock mr-1'></i>Cook Time: $($metadata.duration)</div></div>";
         intro = $intro;
         sections = $sections;
         createdDate = "Created: $($metadata.createdDate)";
