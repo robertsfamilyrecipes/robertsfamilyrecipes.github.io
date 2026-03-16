@@ -1,12 +1,12 @@
 ---
 title: Chicken and Prawn Paella
-photo:
+photo: ../images/2026-03-16-chicken-and-prawn-paella.jpg
 serves: 4
 duration: 1 hour
 tags: 
 - main
 createdDate: 2026-03-14
-updatedDate:
+updatedDate: 2026-03-16
 ---
 
 By Jamie Olive from a Sainsbury Recipe Card 2002.
@@ -23,10 +23,11 @@ By Jamie Olive from a Sainsbury Recipe Card 2002.
 * 4 garlic cloves, thinly sliced
 * 1 tbsp smoked paprika
 * saffron
-* handful parsley, shopped
 * 250ml frozen peas
 * 150g big prawns
 * 500g paella rice
+* handful parsley, chopped
+* 1 lemon
 
 ### Method
 
@@ -34,9 +35,7 @@ Stock.  In a sauce pan heat 1.5 litre of water with the chicken stock pot.  Keep
 
 Cook the chicken.  Heat a large paella dish to hot, add oil and chicken and cook for 10 min.
 
-Chorizo and onions.  Flip the chicken over, turn the heat to medium, add the chorizo, onions and cook for 10 min.
-
-Add the pancetta and cook for 5 min.
+Chorizo, pancetta and onions.  Flip the chicken over, turn the heat to medium, add the chorizo, pancetta, onions and cook for 10 min.
 
 Add the garlic and paprika and cook for a couple of min.
 
@@ -50,5 +49,8 @@ Cover with foil, turn the heat to low and cook for 5 min.
 
 Turn off the heat and let rest for 5-10 min.  Don't peek.
 
-Serve.
+Mix in the prawns and serve with lemon wedges.
 
+^^^
+![Cooking Paella](../images/2026-03-16-chicken-and-prawn-dish.jpg)
+^^^ Cooking Paella

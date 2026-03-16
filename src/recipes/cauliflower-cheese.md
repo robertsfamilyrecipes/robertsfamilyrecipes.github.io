@@ -1,12 +1,12 @@
 ---
 title: Cauliflower cheese
-photo:
+photo: ../images/2026-03-15-cauliflower-cheese-meal.jpg
 serves: 4 as a side
 duration: 45 min
 tags: 
 - side
 createdDate: 2026-03-12
-updatedDate:
+updatedDate: 2026-03-16
 ---
 
 [From bbc good food](https://www.bbcgoodfood.com/recipes/cauliflower-cheese-0)
@@ -15,8 +15,9 @@ updatedDate:
 
 * 1 cauliflower, florets cut off
 * 500ml milk
-* 4 tbsp flour
 * 50g butter
+* 50g flour
+* &frac12; tsp table salt
 * 100g strong cheddar, grated
 * panko breadcrumbs
 
@@ -30,3 +31,7 @@ Make the white sauce.  Melt the butter in a pan.  Add the flour, mix in an allow
 Assemble.  In a small oven proof disk, mix the cauliflower with the sauce and scatter over some breadcrumbs.
 
 Cook in the oven for 20 min on 200&deg;C fan.
+
+^^^
+![Cauliflower Cheese](../images/2026-03-15-cauliflower-cheese.jpg)
+^^^ Cauliflower Cheese

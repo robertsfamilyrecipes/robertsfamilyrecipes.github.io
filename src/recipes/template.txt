@@ -1,6 +1,6 @@
 ---
 title: 
-photo:
+photo: ../images/
 serves: 4
 duration: 15 min
 tags: 
