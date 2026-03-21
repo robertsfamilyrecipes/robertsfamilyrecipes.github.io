@@ -1,10 +1,10 @@
 ---
 title: 
-photo: ../images/
+photo: 
 serves: 4
-duration: 15 min
+duration: 1 hour
 tags: 
-- side
+- main
 createdDate: 
 updatedDate:
 ---
