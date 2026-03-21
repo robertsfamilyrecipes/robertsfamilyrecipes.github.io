@@ -23,7 +23,7 @@ updatedDate: 2026-03-16
 
 ### Method
 
-Boil the cauliflower.  I use 1.5 litre of water and 1 tbsp salt.  Boil for **3 min**, then drain.
+Boil the cauliflower.  I use 1.5 litre of water and 1 tbsp salt.  Boil for **4-5 min**, then drain.
 
 Make the white sauce.  Melt the butter in a pan.  Add the flour, mix in an allow to cook for a few min.  Turn up the heat, add the milk and whisk until smooth.  Bring the mixture to the boil, and let thicken.  Take off the heat and allow to cool a little, then mix in the cheese.
 
