@@ -9,7 +9,7 @@ createdDate: 2026-03-14
 updatedDate: 2026-03-16
 ---
 
-By Jamie Olive from a Sainsbury Recipe Card 2002.
+By Jamie Olive from a Sainsbury Recipe Card 2002.  Does not reheat well - one day only.
 
 ### Ingredients
 
