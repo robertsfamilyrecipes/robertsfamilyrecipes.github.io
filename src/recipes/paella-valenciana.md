@@ -1,15 +1,15 @@
 ---
 title: Paella Valenciana
-photo: 
+photo: ../images/2026-03-21-paella-valenciana.jpg
 serves: 4
 duration: 1 hour
 tags: 
-- side
+- main
 createdDate: 2026-03-21
-updatedDate:
+updatedDate: 2026-03-22
 ---
 
-From [Tapas Revolution by Omar Allibhoy](https://www.amazon.co.uk/Tapas-Revolution-Omar-Allibhoy-ebook/dp/B00DE15P9S/).  His [youtube video](https://www.youtube.com/watch?v=L_dDUw_QuDU) is very instructive.  This is not an aldante dish, the veg is well cooked and browned.  The aim is to get a 'socarrat' on the bottom of the paella - which is a crusty, burnt bit.  To do this the rice is cooked on a high heat, and you don't stir at all once the rice is added.  I have only partially achieved this.
+From [Tapas Revolution by Omar Allibhoy](https://www.amazon.co.uk/Tapas-Revolution-Omar-Allibhoy-ebook/dp/B00DE15P9S/).  His [youtube video](https://www.youtube.com/watch?v=L_dDUw_QuDU) is very instructive.  The aim is to get a 'socarrat' on the bottom of the paella - which is a crusty, burnt bit.  To do this the rice is cooked on a high heat, and you don't stir at all once the rice is added.
 
 
 ### Ingredients
@@ -30,21 +30,21 @@ From [Tapas Revolution by Omar Allibhoy](https://www.amazon.co.uk/Tapas-Revoluti
 
 ### Method
 
-Chicken.  Heat the pan to hot.  Add oil, chicken and salt.  Brown on hight heat for 15 min.
+Stock.  Heat 1.5 litre of water in a pan and add the stock cube plus 1 tsp table salt.  Keeps the stock warm.
 
-Add green beans and broad beans to pan, and cook for a few min.
+Chicken.  Heat a paella dish or frying pan to hot.  Add oil, chicken and salt and brown for 15 min.
+
+Add green beans and broad beans to the pan, and cook for 3 min.
    
-Add artichoke, and cook for 2 min.
-
 Turn down heat to low.  Add garlic and cook for 1 min.
 
 Add Smoked Paprika, and cook for 1 min.
 
-Add tomatoes.  Turn heat back up and cook for 2 min.
+Turn up the heat.  Add tomatoes and artichoke, and cook for 2 min.
 
-Add stock.  (I use 1 stock cube plus 1 tsp salt).  Add saffron.  Give a gentle stir and bring to the boil.
+Add stock and saffron.  Give a gentle stir and bring to the boil.
 
-Add rice.  Don't stir - shake the pan to spread the rice out.  Cook on high heat for 10 min.  Don't stir.
+Add rice.  Shake the pan to spread the rice out - don't stir.  Cook on high heat for 10 min.  Don't stir.
 
 When the water is absorbed to the top of the rice.  Lay over the rosemary.  Turn down heat to low.  Cover tightly with foil.  Cook for 6 min.
 
