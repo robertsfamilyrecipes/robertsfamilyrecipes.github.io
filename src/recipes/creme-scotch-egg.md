@@ -27,7 +27,7 @@ From [Janes Pattiserie](https://www.janespatisserie.com/2023/01/30/creme-egg-sco
 * 2 tsp bicarbonate soda
 * _Assemble_
 * 8 creme eggs, frozen
-* 3 tbsp chocolate butter creme
+* 3 tbsp chocolate butter cream
 
 ### Method
 
@@ -37,9 +37,7 @@ Add dark chocolate and butter to a bowl and melt together until smooth.
 
 In another bowl whisk together eggs and sugar until thickened and pale.
 
-Fold through the chocolate mixture, then fold in the plain flour and cocoa powder.
-
-Pour into the tin and bake for 25-30 min, then leave to cool.
+Fold through the chocolate mixture, then fold in the plain flour and cocoa powder.  Pour into the tin and bake for 25-30 min, then leave to cool.
 
 Honeycomb.  Butter a 20 cm square baking tin.  In a pan, on a low heat, stir together the syrup and sugar until the sugar is dissolved.
 
@@ -51,7 +49,6 @@ Flatten a piece of brownie mix in your hand, add the frozen creme egg, and wrap 
 
 Smash the honeycomb to crumb.  Then roll the brownie-egg in them to coat.
 
-Refrigerate.
 
 
 
