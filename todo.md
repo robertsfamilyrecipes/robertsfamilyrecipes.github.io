@@ -84,7 +84,7 @@ ToDo List
 [Done] Put picture in metadata
 [Done] Move and restyle the serves and cook-time
 [Done] Hero Icons https://github.com/tailwindlabs/heroicons
-[ToDo] Print icon in body
+[InProgress] Print icon in body
 
 
 [ToDo] Annoying whitespace problem

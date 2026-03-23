@@ -136,14 +136,25 @@ nav a {
   font-weight: bold;
 }
 
-div.info {
+div.strap-line {
   padding: 0;
   margin-bottom: 0.5rem;
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
-  gap: 1rem;
   font-size: var(--font-size-sm);
+  flex-direction: row;
+  align-items: center;
+}
+
+div.info {
+  padding: 0;
+  margin-bottom: 0;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  font-size: var(--font-size-sm);
+  flex-direction: column;
 }
 
 div.sub-footer {
@@ -186,5 +197,9 @@ ul {
 
 .user {
   background-image: url("./user.svg");
+}
+
+.printer {
+  background-image: url("./printer.svg");
 }
 

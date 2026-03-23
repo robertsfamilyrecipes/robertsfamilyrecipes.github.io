@@ -3,7 +3,7 @@ body {
   max-width:none;
 }
 
-header, footer, nav, figure, figcaption, img, div.sub-footer, .icon {
+header, footer, nav, figure, figcaption, img, div.sub-footer, .icon, .print-area {
   display:none;
 }
 
@@ -13,5 +13,13 @@ article {
 
 article > section:last-of-type {
   margin-bottom: 0;
+}
+
+div.strap-line {
+  display: block;
+}
+
+div.info {
+  flex-direction: row;
 }
 
