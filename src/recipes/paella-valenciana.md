@@ -30,9 +30,9 @@ From [Tapas Revolution by Omar Allibhoy](https://www.amazon.co.uk/Tapas-Revoluti
 
 ### Method
 
-Stock.  Heat 1.5 litre of water in a pan and add the stock cube plus 1 tsp table salt.  Keeps the stock warm.
+Stock.  Heat 1.5 litre of water, add the stock cube plus 1 tsp table salt.  Keep warm.
 
-Chicken.  Heat a paella dish or frying pan to hot.  Add oil, chicken and salt and brown for 15 min.
+Chicken.  Heat a paella dish to hot.  Add oil, chicken and salt and brown for 15 min.
 
 Add green beans and broad beans to the pan, and cook for 3 min.
    
@@ -44,10 +44,10 @@ Turn up the heat.  Add tomatoes and artichoke, and cook for 2 min.
 
 Add stock and saffron.  Give a gentle stir and bring to the boil.
 
-Add rice.  Shake the pan to spread the rice out - don't stir.  Cook on high heat for 10 min.  Don't stir.
+Add rice.  Shake the pan to spread the rice out.  Cook on high heat for 10 min.  Don't stir.
 
 When the water is absorbed to the top of the rice.  Lay over the rosemary.  Turn down heat to low.  Cover tightly with foil.  Cook for 6 min.
 
-Turn off heat, and leave for 5 min.  Don't peek or break the foil.  This lets the rice finish cooking in the steam.
+Turn off heat, and leave for 5 min to finish cooking.  Don't peek or break the foil.
 
-Serve.  Make sure to scrape the good bits off the bottom of the pan.  Each person should get rice from edge, bottom and center of pan.
+Serve.  Each person should get rice from edge, bottom and center of pan.  
