@@ -71,6 +71,10 @@ ToDo List
   * 87% jpeg quality
   * high quality resampling
   * => 177kB
+[Done] Put picture in metadata
+[Done] Move and restyle the serves and cook-time
+[Done] Hero Icons https://github.com/tailwindlabs/heroicons
+[Done] Print icon in body
 
 [InProgress] Standardised language and ingredients
 * [Done] 1 400g tin tomatoes, chopped
@@ -81,10 +85,7 @@ ToDo List
 * [ToDo] 220g bacon
 * [ToDo] Prawn and feta pasta - words
 
-[Done] Put picture in metadata
-[Done] Move and restyle the serves and cook-time
-[Done] Hero Icons https://github.com/tailwindlabs/heroicons
-[InProgress] Print icon in body
+
 
 
 [ToDo] Annoying whitespace problem
