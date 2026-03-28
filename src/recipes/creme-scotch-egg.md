@@ -37,15 +37,13 @@ Add dark chocolate and butter to a bowl and melt together until smooth.
 
 In another bowl whisk together eggs and sugar until thickened and pale.
 
-Fold through the chocolate mixture, then fold in the plain flour and cocoa powder.  Pour into the tin and bake for 25-30 min, then leave to cool.
+Fold through the chocolate mixture, then fold in the plain flour and cocoa powder.  Pour into the tin and bake for 25-30 min, leave to cool.
 
 Honeycomb.  Butter a 20 cm square baking tin.  In a pan, on a low heat, stir together the syrup and sugar until the sugar is dissolved.
 
-Turn up the heat and simmer until you have amber coloured caramel (155&deg;C).  Remove from heat, stir in the bicarb, and beat with a wooden spoon until mixed.  The mixture will foam up.  Scrape into the tin, and leave to cool for 1 hour.
+Turn up the heat and simmer until you have amber coloured caramel (155&deg;C).  Remove from heat, stir in the bicarb, and beat with a wooden spoon until mixed.  Scrape into the tin, and leave to cool.
 
-Assemble.  Beat the brownie in a bowl to break up.  Beat in 1 tbsp buttercream at a time, until you have a thick but not wet mixture.  Portion into 8.
-
-Flatten a piece of brownie mix in your hand, add the frozen creme egg, and wrap the mixture around.  Repeat.
+Assemble.  Beat the brownie in a bowl to break up.  Beat in 1 tbsp buttercream at a time, until you have a thick but not wet mixture.  Portion into 8.  Flatten a piece of brownie mix in your hand, add the frozen creme egg, and wrap the mixture around.  Repeat.
 
 Smash the honeycomb to crumb.  Then roll the brownie-egg in them to coat.
 
