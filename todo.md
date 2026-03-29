@@ -85,7 +85,9 @@ ToDo List
 * [ToDo] 220g bacon
 * [ToDo] Prawn and feta pasta - words
 
-
+[InProgress] linewidth svg
+[ToDo] better print button
+[ToDO] better text icon alignment
 
 
 [ToDo] Annoying whitespace problem
