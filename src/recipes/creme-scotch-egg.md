@@ -1,12 +1,12 @@
 ---
 title: Creme Scotch Egg
-photo: 
+photo: ../images/2026-04-03-creme-scotch-egg.jpg
 serves: 4
-duration: 1&frac12; hour
+duration: 2 hour
 tags: 
 - dessert
 createdDate: 2026-03-22
-updatedDate:
+updatedDate: 2026-04-11
 ---
 
 From [Janes Pattiserie](https://www.janespatisserie.com/2023/01/30/creme-egg-scotch-eggs/), with [honeycomb](https://www.bbcgoodfood.com/recipes/honeycomb-0) from bbc good food.  Just gross.
@@ -47,6 +47,8 @@ Assemble.  Beat the brownie in a bowl to break up.  Beat in 1 tbsp buttercream a
 
 Smash the honeycomb to crumb.  Then roll the brownie-egg in them to coat.
 
-
+^^^
+![Creme Scotch Egg](../images/2026-04-03-wrapped-scotch-egg.jpg)
+^^^
 
 

@@ -20,7 +20,7 @@ updatedDate: 2026-04-11
 * 2 tbsp mayonnaise
 * 2 tbsp ketchup
 * 1 tsp pickle juice
-* _toppings _
+* _toppings_
 * lettuce
 * tomato
 * gherkins
