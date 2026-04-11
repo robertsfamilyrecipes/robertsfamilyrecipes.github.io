@@ -1,12 +1,12 @@
 ---
 title: Smash Burger
-photo: 
+photo: ../images/2026-04-03-smash-burger.jpg
 serves: 4
 duration: 45 min
 tags: 
 - main
 createdDate: 2026-03-28
-updatedDate:
+updatedDate: 2026-04-11
 ---
 
 [From reddit](https://old.reddit.com/r/Cooking/comments/h0iuhw/every_burger_recipe_from_gordon_ramsay_that_ive/ftnv1jk/)
@@ -16,16 +16,19 @@ updatedDate:
 * 4 buns
 * 500g mince
 * salt and pepper
-* _topping_
-* mayo
-* mustard
-* ketchup
+* _burger sauce_
+* 2 tbsp mayonnaise
+* 2 tbsp ketchup
+* 1 tsp pickle juice
+* _toppings _
 * lettuce
-* red onion
 * tomato
 * gherkins
+* cheese
 
 ### Method
+
+Make the burger sauce by whisking together the mayo, ketchup and pickle juice.
 
 Split mince into 4, and gently roll into balls.  Salt and pepper one side generously.
 
@@ -39,4 +42,4 @@ Cook for another 3 minutes without moving it. Don't fiddle with it.  Take out of
 
 Toast the buns cut side down for a minute in the pan
 
-Dress to your taste. I do mayo, mustard, ketchup, lettuce, gherkins, and tomato.
+Dress with burger sauce, lettuce, gerkins and tomato.
