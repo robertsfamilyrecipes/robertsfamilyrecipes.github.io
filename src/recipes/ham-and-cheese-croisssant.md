@@ -1,12 +1,12 @@
 ---
 title: Ham and Cheese Croissant
-photo: 
+photo: ../images/2026-04-17-ham-and-cheese-croissant.jpg
 serves: 2
 duration: 30 min
 tags: 
 - main
 createdDate: 2026-04-16
-updatedDate:
+updatedDate: 2026-04-27
 ---
 
 From [reddit](https://www.reddit.com/r/GifRecipes/comments/ihiump/taleggio_ham_cornichon_baked_croissants/).  Serve with chips.

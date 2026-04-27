@@ -6,7 +6,7 @@ duration: 1 hour
 tags: 
 - pasta
 createdDate: 2026-02-01 
-updatedDate: 2026-02-19
+updatedDate: 2026-04-27
 ---
 
 This recipe is from [Ainsley Harriott's Friends & Family Cookbook](
@@ -16,7 +16,7 @@ https://www.amazon.co.uk/Ainsley-Harriotts-Friends-Family-Cookbook-ebook/dp/B01N
 
 * olive oil
 * 500g thin sausages
-* 2 red onion, thinly sliced
+* 1 red onion, thinly sliced
 * 1 tbsp tomato puree
 * 1 red pepper, thinly sliced
 * 1 yellow pepper, thinly sliced
