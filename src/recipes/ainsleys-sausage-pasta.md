@@ -1,6 +1,6 @@
 ---
 title: Ainsley's Sausage Pasta
-photo: ../images/2026-02-02-ainsley-sausage-pasta.jpg
+photo: ../images/2026-04-27-ainsley-sausage-pasta.jpg
 serves: 4
 duration: 1 hour
 tags: 

@@ -1,11 +1,12 @@
 ---
 title: Spanish Beans
-photo:
+photo: ../images/2026-04-17-spanish-beans.jpg
 serves: 4 as a side
 duration: 30 min
 tags: 
 - side
 createdDate: 2025-06-19
+updatedDate: 2026-04-27
 ---
 
 From [the spanish chef](https://www.thespanishchef.com/recipes/broad-beans-with-chorizo)
