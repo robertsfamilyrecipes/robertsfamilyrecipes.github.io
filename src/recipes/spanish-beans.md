@@ -6,7 +6,7 @@ duration: 30 min
 tags: 
 - side
 createdDate: 2025-06-19
-updatedDate: 2026-04-27
+updatedDate: 2026-05-01
 ---
 
 From [the spanish chef](https://www.thespanishchef.com/recipes/broad-beans-with-chorizo)
@@ -24,10 +24,10 @@ From [the spanish chef](https://www.thespanishchef.com/recipes/broad-beans-with-
 
 ### Method
 
-Cook onions.  
+In a frying pan on medium heat, cook the chorizo until a bit crispy and oil released
 
-Add garlic, oregano, chorizo cook some more.
+In a small pan cook onions, until golden.  Then add garlic and oregano and cook for 2 min more.
 
-Add broad beans and cook 2 min.
+Add the chorizo and beans to the onion and warm through.
 
 Finish with lemon.
