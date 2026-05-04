@@ -73,8 +73,18 @@ ToDo List
   * => 177kB
 [Done] Put picture in metadata
 [Done] Move and restyle the serves and cook-time
-[Done] Hero Icons https://github.com/tailwindlabs/heroicons
 [Done] Print icon in body
+[Done] svg and hero icons
+* Hero-icons
+  * Hero Icons https://github.com/tailwindlabs/heroicons
+  * Outline 24x24 https://heroicons.com/outline
+  * set stroke-width="2", which seems to match font width best
+* Include svg as css data 
+  * Converter https://www.svgbackgrounds.com/tools/svg-to-css/
+* vertical alignment of icon bit of a shit show
+  * .icon is inline block
+  * set height of .icon class, and use vertical-align: top;
+  * height of surrounding div element should be 21px (font size * line-height)
 
 [InProgress] Standardised language and ingredients
 * [Done] 1 400g tin tomatoes, chopped
@@ -85,9 +95,8 @@ ToDo List
 * [ToDo] 220g bacon
 * [ToDo] Prawn and feta pasta - words
 
-[Done] linewidth svg
 [ToDo] better print button
-[InProgress] better text icon alignment
+
 
 
 [ToDo] Annoying whitespace problem
@@ -109,11 +118,7 @@ ToDo List
 }
 [ToDo] Print layout two column?
 
-```
-.TrimEnd([char]"`r", [char]"`n")
-```
 
-  <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
-  <path stroke-linecap="round" stroke-linejoin="round" d="M12 6v6h4.5m4.5 0a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z" />
-</svg>
+
+
 
