@@ -81,10 +81,10 @@ ToDo List
   * set stroke-width="2", which seems to match font width best
 * Include svg as css data 
   * Converter https://www.svgbackgrounds.com/tools/svg-to-css/
-* vertical alignment of icon bit of a shit show
-  * .icon is inline block
-  * set height of .icon class, and use vertical-align: top;
-  * height of surrounding div element should be 21px (font size * line-height)
+* Alignment of icon
+  * https://css-tricks.com/tips-aligning-icons-text/  
+  * .icon is inline-block height/width 1em so scale with font
+  * position relative, apply a top in em so can vertically position
 
 [InProgress] Standardised language and ingredients
 * [Done] 1 400g tin tomatoes, chopped
@@ -116,7 +116,7 @@ ToDo List
 .button {
   background-color: color-mix(in srgb, red 50%, blue);
 }
-[ToDo] Print layout two column?
+[ToDo] Print layout two column ingredients
 
 
 
