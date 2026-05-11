@@ -98,12 +98,6 @@ ToDo List
 [ToDo] better print button
 
 
-
-[ToDo] Annoying whitespace problem
-[ToDo] What about line ending settings  
-[ToDo] favicon  <link rel="icon" type="image/png" href="favicon.png">
-
-[ToDo] CSS variables. https://www.w3schools.com/css/css3_variables.asp
 [ToDo] Color 
 * palette https://colorhunt.co/palette/5749649f8383c8aaaaffdab3
 * colored links https://getbootstrap.com/docs/5.3/helpers/colored-links/
@@ -116,7 +110,15 @@ ToDo List
 .button {
   background-color: color-mix(in srgb, red 50%, blue);
 }
-[ToDo] Print layout two column ingredients
+
+
+
+[ToDo] Annoying whitespace problem
+[ToDo] What about line ending settings  
+[ToDo] favicon  <link rel="icon" type="image/png" href="favicon.png">
+[ToDo] CSS variables. https://www.w3schools.com/css/css3_variables.asp
+[ToDo] Full screen and print layout two column ingredients
+[ToDo] better link under line and colors
 
 
 
