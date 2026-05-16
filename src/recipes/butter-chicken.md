@@ -7,7 +7,7 @@ tags:
 - main
 - curry
 createdDate: 2026-05-11
-updatedDate:
+updatedDate: 2026-05-16
 ---
 
 From [reddit](https://www.reddit.com/r/Cooking/comments/axmknw/ultimate_restaurant_quality_butter_chicken/).  Serve with rice.
@@ -18,8 +18,8 @@ From [reddit](https://www.reddit.com/r/Cooking/comments/axmknw/ultimate_restaura
 * _Sauce_
 * handful cashews, soaked in milk
 * 2 tbsp vegetable oil
-* 1 piece mace
 * 4 cardamom pods, crushed
+* 1 piece mace
 * 1 cinnamon stick
 * 2 bay leaves
 * 2 star anise
@@ -31,14 +31,15 @@ From [reddit](https://www.reddit.com/r/Cooking/comments/axmknw/ultimate_restaura
 * 1 onion, sliced
 * 5 garlic cloves, sliced
 * 2 400g tin chopped tomatoes
+* &frac12; tsp sugar
 * &frac12; tsp cinnamon
 * 1 chilli, deseeded and chopped
 * 3cm ginger, grated
 * 1 tsp salt
 * 1 tbsp white wine vinegar
 * 25g butter
-* 1 tsp turmeric
 * 1 tbsp ground fenugreek
+* 1 tsp turmeric
 * 1 tbsp garam masala
 * 100ml-150ml double cream
 * salt and pepper to taste
@@ -47,13 +48,13 @@ From [reddit](https://www.reddit.com/r/Cooking/comments/axmknw/ultimate_restaura
 * 150ml natural yogurt
 * 4cm ginger piece
 * 10 garlic cloves
-* 1 tbsp chili flakes
 * 4 tbsp lime juice
-* 2 tbsp ground cumin
-* 1 tbsp garam masala
-* 2 tbsp paprika
-* 1 tsp cayenne pepper
 * 3 tbsp sunflower oil
+* 2 tbsp ground cumin
+* 2 tbsp paprika
+* 1 tbsp chili flakes
+* 1 tsp cayenne pepper
+* 1 tbsp garam masala
 
 ### Method
 
