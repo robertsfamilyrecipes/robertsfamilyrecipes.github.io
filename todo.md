@@ -85,6 +85,8 @@ ToDo List
   * https://css-tricks.com/tips-aligning-icons-text/  
   * .icon is inline-block height/width 1em so scale with font
   * position relative, apply a top in em so can vertically position
+[Done] better print button
+  * copied from bootstrap
 
 [InProgress] Standardised language and ingredients
 * [Done] 1 400g tin tomatoes, chopped
@@ -95,7 +97,7 @@ ToDo List
 * [ToDo] 220g bacon
 * [ToDo] Prawn and feta pasta - words
 
-[ToDo] better print button
+
 
 
 [ToDo] Color 
