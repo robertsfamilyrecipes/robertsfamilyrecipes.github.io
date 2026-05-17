@@ -144,7 +144,7 @@ div.strap-line {
   flex-wrap: wrap;
   font-size: var(--font-size-sm);
   flex-direction: row;
-  align-items: center;
+  align-items: flex-start;
 }
 
 div.info {
