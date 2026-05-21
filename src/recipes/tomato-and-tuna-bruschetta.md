@@ -6,7 +6,7 @@ duration: 15 min
 tags: 
 - main
 createdDate: 2026-05-16
-updatedDate:
+updatedDate: 2026-05-21
 ---
 
 From Hello! magazine.
@@ -19,7 +19,7 @@ From Hello! magazine.
 * 1 red onion, sliced
 * 8 black olives, sliced
 * 2 anchovy fillets, mashed
-* 200g tin tuna, drained and flaked
+* 200g tin tuna, drained and flaked (probably 2 tins)
 * parsley, chopped
 * basil leaves, chopped
 * _Dressing_
