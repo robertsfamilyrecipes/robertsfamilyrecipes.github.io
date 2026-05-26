@@ -65,6 +65,10 @@ img, picture, video, canvas, svg {
   max-width: 100%;
 }
 
+img {
+  border-radius: 0.375rem;
+}
+
 @media (min-width: 576px) {
   img, picture, video, canvas, svg {
     max-width: calc(320px - 0.75rem);
