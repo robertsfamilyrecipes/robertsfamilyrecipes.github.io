@@ -124,9 +124,10 @@ section {
 
 nav {
   background-color: var(--sub-heading-bg);
-  padding: 0 0.5rem;
+  padding: 0.5rem 0.5rem;
   display: flex;
   justify-content: space-between;
+  align-items: center;
   flex-wrap: wrap;
   gap: 1rem;
 }

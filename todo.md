@@ -98,6 +98,11 @@ ToDo List
 * [ToDo] Prawn and feta pasta - words
 
 
+[ToDo] Navbar
+* Better spacing
+* Icon for home, responsive?
+* Sticky
+
 
 
 [ToDo] Color 
