@@ -7,10 +7,6 @@
 /* and https://github.com/twbs/bootstrap/tree/main */
 /* ######### */
 
-/*
---heading: color-mix(in srgb, #fafac3, black 70%);
-*/
-
 :root {
   --theme-color-1: #41431B;
   --theme-color-2: #AEB784;
@@ -23,6 +19,10 @@
   --body-bg:#f9f9f9;
   --body: #212529;
   --font-size-sm: 0.875rem;
+
+  --link-color: var(--theme-color-1);
+  /* midpoint blend of color 1 & 2 */
+  --link-hover-color: #787D50;
 }
 
 #root, #__next {
@@ -73,6 +73,14 @@ img, picture, video, canvas, svg {
 
 input, button, textarea, select {
   font: inherit;
+}
+
+a {
+  color: var(--link-color);
+  text-decoration: underline;
+}
+a:hover {
+  color: var(--link-hover-color);
 }
 
 p {

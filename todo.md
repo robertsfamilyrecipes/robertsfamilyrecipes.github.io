@@ -87,6 +87,14 @@ ToDo List
   * position relative, apply a top in em so can vertically position
 [Done] better print button
   * copied from bootstrap
+[Done] Navbar
+* Better spacing
+* Icon for home, responsive?
+* Sticky
+[Done] Color 
+* palette 
+  * https://colorhunt.co/palette/41431baeb784e3dbbbf8f3e1
+* colored links https://getbootstrap.com/docs/5.3/helpers/colored-links/
 
 [InProgress] Standardised language and ingredients
 * [Done] 1 400g tin tomatoes, chopped
@@ -98,25 +106,9 @@ ToDo List
 * [ToDo] Prawn and feta pasta - words
 
 
-[InProgress] Navbar
-* Better spacing
-* Icon for home, responsive?
-* Sticky
 
 
-[InProgress] Color 
-* palette 
-  * https://colorhunt.co/palette/41431baeb784e3dbbbf8f3e1
-* colored links https://getbootstrap.com/docs/5.3/helpers/colored-links/
-* Like the alert style font colouring in bootstrap
-  * See here for definition of the background colours
-  * https://github.com/twbs/bootstrap/blob/main/scss/_variables.scss
-  * This file has the definition of colour shade
-  * https://github.com/twbs/bootstrap/blob/main/scss/_functions.scss
-  * This bit of code should do colour mixing in pure css
-.button {
-  background-color: color-mix(in srgb, red 50%, blue);
-}
+
 
 
 
