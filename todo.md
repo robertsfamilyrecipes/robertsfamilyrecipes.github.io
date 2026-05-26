@@ -85,6 +85,8 @@ ToDo List
   * https://css-tricks.com/tips-aligning-icons-text/  
   * .icon is inline-block height/width 1em so scale with font
   * position relative, apply a top in em so can vertically position
+* setting color
+  * https://codepen.io/noahblon/post/coloring-svgs-in-css-background-images  
 [Done] better print button
   * copied from bootstrap
 [Done] Navbar
@@ -95,7 +97,9 @@ ToDo List
 * palette 
   * https://colorhunt.co/palette/41431baeb784e3dbbbf8f3e1
 * colored links https://getbootstrap.com/docs/5.3/helpers/colored-links/
-
+* Icon color
+* rounding
+* sub footer color
 
 [InProgress] Standardised language and ingredients
 * [Done] 1 400g tin tomatoes, chopped
@@ -106,9 +110,7 @@ ToDo List
 * [ToDo] 220g bacon
 * [ToDo] Prawn and feta pasta - words
 
-[ToDo] Icon color
-[ToDo] rounding
-[Done] sub footer color
+
 
 
 
