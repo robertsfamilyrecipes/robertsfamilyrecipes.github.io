@@ -179,13 +179,12 @@ div.info {
 }
 
 div.sub-footer {
-  background-color: var(--sub-heading-bg);
   padding: 0 0.5rem;
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
   gap: 1rem;
-  color: rgba(33, 37, 41, 0.5);
+  color: var(--theme-color-2);
   font-size: var(--font-size-sm);
 }
 

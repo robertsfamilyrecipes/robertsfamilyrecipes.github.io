@@ -96,6 +96,7 @@ ToDo List
   * https://colorhunt.co/palette/41431baeb784e3dbbbf8f3e1
 * colored links https://getbootstrap.com/docs/5.3/helpers/colored-links/
 
+
 [InProgress] Standardised language and ingredients
 * [Done] 1 400g tin tomatoes, chopped
 * [Done] 225g chorizo
@@ -105,7 +106,9 @@ ToDo List
 * [ToDo] 220g bacon
 * [ToDo] Prawn and feta pasta - words
 
-
+[ToDo] Icon color
+[ToDo] rounding
+[ToDo] sub footer color
 
 
 
