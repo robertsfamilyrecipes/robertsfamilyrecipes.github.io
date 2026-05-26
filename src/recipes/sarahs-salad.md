@@ -13,6 +13,7 @@ updatedDate:
 
 * _Sweet Potatoes_
 * sweet potatoes, peeled and chipped
+* 1 tin tomatoes
 * curry powder
 * cumin
 * salt
