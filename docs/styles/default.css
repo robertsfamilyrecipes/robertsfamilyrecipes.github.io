@@ -12,8 +12,14 @@
 */
 
 :root {
-  --heading-bg: #fafac3;
-  --sub-heading-bg: rgba(250, 250, 195, 0.5);
+  --theme-color-1: #41431B;
+  --theme-color-2: #AEB784;
+  --theme-color-3: #E3DBBB;
+  --theme-color-4: #F8F3E1;
+
+  --heading-bg: var(--theme-color-3);
+  --heading-color: var(--theme-color-1);
+  --sub-heading-bg: var(--theme-color-4);
   --body-bg:#f9f9f9;
   --body: #212529;
   --font-size-sm: 0.875rem;
@@ -110,6 +116,7 @@ body {
 
 header, footer {
   background: var(--heading-bg);
+  color: var(--heading-color);
   padding: 1rem 0.5rem;
   text-align: center;
 }

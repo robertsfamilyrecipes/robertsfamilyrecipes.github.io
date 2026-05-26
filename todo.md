@@ -98,19 +98,15 @@ ToDo List
 * [ToDo] Prawn and feta pasta - words
 
 
-[ToDo] Navbar
+[InProgress] Navbar
 * Better spacing
 * Icon for home, responsive?
 * Sticky
 
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="size-6">
-  <path stroke-linecap="round" stroke-linejoin="round" d="m2.25 12 8.954-8.955c.44-.439 1.152-.439 1.591 0L21.75 12M4.5 9.75v10.125c0 .621.504 1.125 1.125 1.125H9.75v-4.875c0-.621.504-1.125 1.125-1.125h2.25c.621 0 1.125.504 1.125 1.125V21h4.125c.621 0 1.125-.504 1.125-1.125V9.75M8.25 21h8.25" />
-</svg>
 
-
-
-[ToDo] Color 
-* palette https://colorhunt.co/palette/5749649f8383c8aaaaffdab3
+[InProgress] Color 
+* palette 
+  * https://colorhunt.co/palette/41431baeb784e3dbbbf8f3e1
 * colored links https://getbootstrap.com/docs/5.3/helpers/colored-links/
 * Like the alert style font colouring in bootstrap
   * See here for definition of the background colours
