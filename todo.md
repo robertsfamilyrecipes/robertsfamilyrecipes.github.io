@@ -108,7 +108,7 @@ ToDo List
 
 [ToDo] Icon color
 [ToDo] rounding
-[ToDo] sub footer color
+[Done] sub footer color
 
 
 

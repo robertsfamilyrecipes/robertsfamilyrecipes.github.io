@@ -122,19 +122,13 @@ body {
   margin: auto;
 }
 
-header, footer {
+header {
   background: var(--heading-bg);
   color: var(--heading-color);
   padding: 1rem 0.5rem;
   text-align: center;
-}
-
-article {
-  padding: 0.5rem;
-}
-
-section {
-  margin-bottom: 1rem;
+  border-top-left-radius: 0.375rem;
+  border-top-right-radius: 0.375rem;
 }
 
 nav {
@@ -150,11 +144,29 @@ nav {
   position: sticky;
   top: 0;
   z-index: 1020;
+  border-bottom-left-radius: 0.375rem;
+  border-bottom-right-radius: 0.375rem;
 }
 
 nav a {
   text-decoration: none;
   font-weight: bold;
+}
+
+article {
+  padding: 0.5rem;
+}
+
+section {
+  margin-bottom: 1rem;
+}
+
+footer {
+  background: var(--heading-bg);
+  color: var(--heading-color);
+  padding: 1rem 0.5rem;
+  text-align: center;
+  border-radius: 0.375rem;
 }
 
 div.strap-line {
