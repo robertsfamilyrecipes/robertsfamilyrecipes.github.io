@@ -25,11 +25,11 @@ function Build-Article {
         info = @"
 <div class='strap-line'>
   <div class='info'>
-    <div><i class='icon user mr-1'></i>Serves: $($metadata.serves)</div>
-    <div><i class='icon clock mr-1'></i>Cook Time: $($metadata.duration)</div>
+    <div><i class='icon i-user mr-1'></i>Serves: $($metadata.serves)</div>
+    <div><i class='icon i-clock mr-1'></i>Cook Time: $($metadata.duration)</div>
   </div>
   <div class='print-area'>
-    <button onclick='window.print();return false;' class='btn'><i class='icon printer mr-1'></i>Print</button>
+    <button onclick='window.print();return false;' class='btn'><i class='icon i-printer mr-1'></i>Print</button>
   </div>
 </div>  
 "@;
