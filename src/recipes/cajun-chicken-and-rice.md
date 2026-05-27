@@ -1,12 +1,12 @@
 ---
 title: Cajun Chicken and Rice
-photo: 
+photo: ../images/2026-05-27-cajun-chicken.jpg
 serves: 4
 duration: 1 hour 15 min
 tags: 
 - main
 createdDate: 2026-05-26
-updatedDate:
+updatedDate: 2026-06-27
 ---
 
 From imgur (no longer available in this region).
@@ -31,6 +31,6 @@ Veg.  On low heat fry onions till translucent, then add celery and fry till soft
 
 Chicken.  Heat frying pan to hot.  Add oil and chicken skin side down.  Turn heat to medium.  Add salt and cajun seasoning to chicken.  When the skin is brown, flip the chicken and cook some more.  Reserve the chicken, deglaze the pan with water and add to the stock.
 
-Assemble.  Add rice to the veg and fry a bit.  Then add beans, stock and salt.  Add chicken on top skin side up.  Increase the heat an bring to the boil, cover the pan.
+Assemble.  Add rice to the veg and fry a bit.  Then add beans, stock and salt.  Add chicken on top skin side up.  Increase the heat an bring to the boil, cover.
 
 Oven.  Cook in oven on 160&deg;C for 25 min.  Then remove and let rest with lid on for 10 min to complete cooking.  
