@@ -111,6 +111,7 @@ ToDo List
 * [ToDo] Prawn and feta pasta - words
 
 
+[ToDo] Wide screen two column ingredients
 
 
 
@@ -120,9 +121,6 @@ ToDo List
 [ToDo] Annoying whitespace problem
 [ToDo] What about line ending settings  
 [ToDo] favicon  <link rel="icon" type="image/png" href="favicon.png">
-[ToDo] CSS variables. https://www.w3schools.com/css/css3_variables.asp
-[ToDo] Full screen and print layout two column ingredients
-[ToDo] better link under line and colors
 
 
 

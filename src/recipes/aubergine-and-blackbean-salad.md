@@ -1,12 +1,12 @@
 ---
 title: Aubergine and Blackbean Salad
-photo: 
+photo: ../images/2026-05-28-aubergine-and-blackbean-salad.jpg
 serves: 4
 duration: 1 hour
 tags: 
 - side
 createdDate: 2026-05-27
-updatedDate:
+updatedDate: 2026-05-28
 ---
 
 
@@ -14,10 +14,11 @@ updatedDate:
 
 * 2 aubergine, 1cm dice
 * 1 tin blackbeans, drained and rinsed
-* 1 tbsp tomato puree
+* 2 tbsp tomato puree
 * 1 tbsp ground cumin
 * 1 tbsp smoked paprika
 * 1 tsp sugar
+* olive oil
 * _Dressing_
 * 3 tbsp olive oil
 * 1 tbsp red wine vinegar
@@ -27,7 +28,7 @@ updatedDate:
 
 Aubergine.  Toss the aubergine with salt and olive oil.  Cremate in oven for 40 min, 180&deg;C fan.
 
-Beans.  Gently fry the tomato puree with the cumin, paprika and sugar for a few min.  Add the black and stir.  Keep warm.
+Beans.  Gently fry the tomato puree with the cumin, paprika and sugar for a few min.  Add the blackbeans and stir.  Keep warm.
 
 Dressing.  Whisk together the dressing ingredients.
 
