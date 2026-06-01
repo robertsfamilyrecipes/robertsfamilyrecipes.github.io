@@ -1,32 +1,32 @@
 ---
 title: Potato Salad
-photo: 
+photo: ../images/2026-05-30-potato-salad.jpg
 serves: 4
-duration: 20 min
+duration: 30 min
 tags: 
 - side
 createdDate: 2026-05-28
-updatedDate:
+updatedDate: 2026-06-01
 ---
 
 ### Ingredients
 
-* 750g salad potato
-* 1 tbsp table salt
+* 750g salad potatoes
+* 1 tsp table salt, per 500ml water
 * _Dressing_
-* handful basil
-* handful parsley
+* 4 garlic cloves, peeled
 * 2 lemons, juice
 * 2 tbsp balsamic vinegar
-* 4 garlic cloves, peeled
 * 1 tbsp olive oil
 * 1 tbsp tahini
 * 1 tsp maple syrup
 * salt and pepper
+* handful basil
+* handful parsley
 
 ### Method
 
-Potatoes.  Boil potatoes till soft, about 20 min.  I use 1.5 litre water and 1 tbsp table salt.
+Potatoes.  Boil potatoes till soft, 15-20 min from when the water is boiling.  Use 1 tsp of table salt per 500ml water.
 
 Dressing.  Liquidate the dressing ingredients together.  Taste for salt.
 
