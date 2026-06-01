@@ -28,7 +28,7 @@ From Hello! magazine circa 2000.  Serve with crusty bread.
 
 ### Method
 
-Salad.  Juice the lemon first.  When you cut the avocados, quickly places the slices in the lemon juice, to stop them from browning.
+Salad.  Juice the lemon first.  When you cut the avocados, quickly place the slices in the lemon juice, to stop them from browning.
 
 Dressing.  Whisk together the dressing ingredients.
 
