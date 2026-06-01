@@ -34,8 +34,8 @@ updatedDate: 2026-06-01
 
 ### Method
 
-Sweet Potatoes.  Peel and chop the sweet potatoes.  Mix in curry powder, cumin, salt and olive oil.   Cremate in the oven on 200&deg;C fan for 40 min.  After 20 min mix in  the tomatoes, chickpeas and sugar.  When cooked taste for salt.
+Sweet Potatoes.  Peel and chop the sweet potatoes.  Mix in curry powder, cumin, salt and olive oil.   Cremate in the oven on 200&deg;C fan for 40 min.  After 20 min mix in  the tomatoes, chickpeas and sugar.  When cooked, taste for salt.
 
 Dressing.  Whisk together the dressing ingredients.  Taste for salt.
 
-Assemble.  Mix the dressing with the sweet potatoes, plate, and pile the salad on top, with a bit more dressing.
+Assemble.  Slap sweet potato and salad on a plate.  Drizzle over dressing.
