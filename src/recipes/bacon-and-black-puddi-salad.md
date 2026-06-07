@@ -20,7 +20,7 @@ I think this recipe is by Antony Worrall Thompson, and I copied it down from Rea
 * 1 cos lettuce, torn to pieces
 * cherry tomatoes, quartered and salted
 * 2 eggs
-* _dressing_
+* _Dressing_
 * 6 tbsp sunflower oil
 * 1 tbsp white wine vinegar
 * 1 tsp dijon mustard

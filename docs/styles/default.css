@@ -203,6 +203,13 @@ div.sub-footer {
   font-size: var(--font-size-sm);
 }
 
+@media (min-width: 576px) {
+  ul {
+    column-count: 2;
+    column-gap: 3rem;
+  }
+}
+
 ul {
   list-style-type: none;
   padding: 0;

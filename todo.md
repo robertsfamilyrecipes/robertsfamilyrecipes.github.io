@@ -55,9 +55,12 @@ ToDo List
 [Done] Image would look better 100% on phone
 [Done] Images not wrapping when >=2 images
 [Done] Heading still not fit right, use clamp on heading size
-[Done] List wrap
-* see rebs casserole for an example of where its needed on mobile
-* https://www.geeksforgeeks.org/css/how-to-set-indent-the-second-line-of-paragraph-using-css/
+[Done] List
+* wrap with indent on second line
+  * see rebs casserole for an example of where its needed on mobile
+  * https://www.geeksforgeeks.org/css/how-to-set-indent-the-second-line-of-paragraph-using-css/
+* two column list on wide screen
+  * https://www.tutorialpedia.org/blog/is-there-a-way-to-break-a-list-into-columns/
 [Done] Type scales
 * Label is normally a smaller font size
 * Major second 1.125 size ratio is very common
@@ -111,8 +114,7 @@ ToDo List
 * [ToDo] Prawn and feta pasta - words
 
 
-[ToDo] Wide screen two column ingredients
-  https://www.tutorialpedia.org/blog/is-there-a-way-to-break-a-list-into-columns/
+
 
 
 
