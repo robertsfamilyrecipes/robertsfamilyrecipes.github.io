@@ -112,9 +112,7 @@ ToDo List
 
 
 [ToDo] Wide screen two column ingredients
-
-
-
+  https://www.tutorialpedia.org/blog/is-there-a-way-to-break-a-list-into-columns/
 
 
 

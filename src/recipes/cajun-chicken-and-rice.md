@@ -9,7 +9,7 @@ createdDate: 2026-05-26
 updatedDate: 2026-06-27
 ---
 
-From imgur (no longer available in this region).
+From imgur which is no longer available in the UK.  I looked on Reddit and found [this recipe which is similar](https://www.reddit.com/r/GifRecipes/comments/906mnj/one_pot_cajun_chicken_and_rice_oc/).  Maybe next time make a hybrid.
 
 ### Ingredients
 
