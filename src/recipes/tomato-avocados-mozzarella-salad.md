@@ -1,16 +1,16 @@
 ---
 title: Tomato, Avocado and Mozzarella Salad
-photo: 
-serves: 4
+photo: ../images/2026-06-05-tomato-avocado-and-mozzarella-salad.jpg
+serves: 2 as a main, 4 as a side
 duration: 30 min
 tags: 
 - main
 - salad
 createdDate: 2026-06-01
-updatedDate:
+updatedDate: 2026-06-07
 ---
 
-From Hello! magazine circa 2000.  Serve with crusty bread.
+From Hello! magazine circa 2000.  Serve with crusty bread.  Add bacon if you want to make it more substantial.
 
 ### Ingredients
 
