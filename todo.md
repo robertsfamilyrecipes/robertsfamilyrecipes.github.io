@@ -123,6 +123,12 @@ ToDo List
 [ToDo] favicon  <link rel="icon" type="image/png" href="favicon.png">
 
 
+[ToDo] Links so can click through the recipes
+* 
+
+[ToDo] Filters
+
+
 
 
 

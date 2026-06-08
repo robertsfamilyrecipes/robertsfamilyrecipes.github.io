@@ -1,11 +1,12 @@
 ---
 title: Black Bean Salad
-photo:
+photo: ../images/2026-06-07-black-bean-salad.jpg
 serves: 4 as a side
 duration: 15 min
 tags: 
 - side
 createdDate: 2026-01-02
+updatedDate: 2026-06-08
 ---
 
 ### Ingredients
@@ -15,7 +16,8 @@ createdDate: 2026-01-02
 * 1 tin sweetcorn, drained
 * 4 tomatoes, chopped and salted
 * 1 red pepper, diced
-* 1 lime
+* _Dressing_
+* 1 lime, zest and juice
 * 2 tbsp olive oil
 * &frac12; tsp chilli powder
 * &frac12; tsp ground cumin
@@ -24,6 +26,10 @@ createdDate: 2026-01-02
 
 In a bowl mix black beans, red onion, sweetcorn, tomatoes and peppers.
 
-Make the dressing.  In a small bowl, zest the lime, and squeeze the lime juice.  Add olive oil, chilli and cumin, then whisk.
+Make the dressing.  In a small bowl, *zest the lime*, and squeeze the lime juice.  Add olive oil, chilli and cumin, then whisk.
 
-Mix the dressing with the salad
+Mix the dressing with the salad.  Taste for salt.
+
+^^^
+![Black Bean Salad](../images/2026-06-07-black-bean-salad-close.jpg)
+^^^
