@@ -21,7 +21,7 @@ From Hello! magazine circa 2000.  Serve with crusty bread.  Add bacon if you wan
 * _Dressing_
 * 5 tbsp olive oil
 * 1 tbsp white wine vinegar
-* 1 tbsp dijon mustard
+* 1 tbsp dijon mustard (yes tablespoon)
 * 2 tsp capers, chopped
 * 1 garlic clove, minced
 * salt and pepper
