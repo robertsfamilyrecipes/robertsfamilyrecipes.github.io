@@ -4,7 +4,7 @@ photo: ../images/2026-06-15-butter-bean-and-tomato-salad.jpg
 serves: 4
 duration: 45 min
 tags: 
-- main
+- salad
 - side
 createdDate: 2026-06-20
 updatedDate:
