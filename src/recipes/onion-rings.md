@@ -12,7 +12,7 @@ updatedDate:
 ### Ingredients
 
 * 1 onion, sliced into rings
-* 200ml buttermilk
+* 300ml buttermilk
 * 2 egg whites
 * 4 tbsp flour
 * 4 tbsp cornmeal
