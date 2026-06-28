@@ -15,6 +15,7 @@ updatedDate: 2026-03-02
 
 * &frac12; white cabbage, shredded
 * 1 carrot, peeled and grated
+* _Dressing_
 * 2 tsp white wine vinegar
 * 1 tbsp caster sugar
 * 1 tsp dijon mustard

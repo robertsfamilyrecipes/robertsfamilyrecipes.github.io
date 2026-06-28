@@ -1,12 +1,12 @@
 ---
 title: Hash Browns
-photo: 
+photo: ../images/2026-06-21-hash-browns.jpg
 serves: 4
 duration: 1 hour
 tags: 
 - main
 createdDate: 2026-06-21
-updatedDate:
+updatedDate: 2026-06-28
 ---
 
 From [BBC Food](https://www.bbc.co.uk/food/recipes/hashbrowns_12454).

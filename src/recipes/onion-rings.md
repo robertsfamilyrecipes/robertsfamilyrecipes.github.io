@@ -14,11 +14,12 @@ updatedDate:
 * 1 onion, sliced into rings
 * 300ml buttermilk
 * 2 egg whites
-* 4 tbsp flour
+* 3 tbsp flour
 * 4 tbsp cornmeal
 * 4 tbsp panko breadcrumbs
 * 1 tsp garlic powder
 * 1 tsp smoked paprika
+* 1 tsp cajun seasoning
 * salt and pepper.
 * butter
 
@@ -32,4 +33,4 @@ Mix.  Mix the flour, cornmeal, breadcrumbs, garlic powder, paprika, salt and pep
 
 Prepare.  Working in sequence, dip the onion ring in the egg whites, the the flour mix, then place on a tray.  Dot with butter.
 
-Cook in oven on 200&deg;C fan for 30 min.
+Cook in oven on 200&deg;C fan for 30 min.  Or in the air fryer for 10 min.
