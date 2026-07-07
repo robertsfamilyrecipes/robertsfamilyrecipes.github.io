@@ -1,6 +1,6 @@
 ---
 title: Greek Salad
-photo: ../imAges/2026-06-28-greek-salad.jpg
+photo: ../images/2026-06-28-greek-salad.jpg
 serves: 4
 duration: 15 min
 tags: 
