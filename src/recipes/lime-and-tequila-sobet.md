@@ -1,15 +1,13 @@
 ---
 title: Lime and Tequila Sorbet
-photo: 
+photo: ../images/2026-08-25-lime-sorbet.jpg
 serves: 4
 duration: 1 hour
 tags: 
 - dessert
 createdDate: 2026-06-29
-updatedDate:
+updatedDate: 2026-07-07
 ---
-
-
 
 ### Ingredients
 
@@ -22,4 +20,4 @@ updatedDate:
 
 Juice the limes, then top up with water to 300ml.  Mix in tequila, golden syrup and sugar.  Dissolve.
 
-Chill in a ice cream machine until set.
+Chill and mix in the ice cream machine.
