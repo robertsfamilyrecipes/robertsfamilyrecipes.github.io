@@ -1,6 +1,6 @@
 ---
 title: Lime and Tequila Sorbet
-photo: ../images/2026-08-25-lime-sorbet.jpg
+photo: ../images/2026-06-25-lime-sorbet.jpg
 serves: 4
 duration: 1 hour
 tags: 
