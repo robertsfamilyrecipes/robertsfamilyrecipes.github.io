@@ -1,6 +1,6 @@
 ---
 title: Quick Salsa
-photo: ../images/2026-08-08-quick-salsa.jpg
+photo: ../images/2026-06-08-quick-salsa.jpg
 serves: 4 as a side
 duration: 10 min
 tags: 
