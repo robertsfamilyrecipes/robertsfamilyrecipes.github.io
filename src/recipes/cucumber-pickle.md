@@ -10,6 +10,8 @@ createdDate: 2026-07-11
 updatedDate:
 ---
 
+From [BBC good food](https://www.bbcgoodfood.com/recipes/quick-pickled-cucumbers)
+
 ### Ingredients
 
 * 1 cucumber
