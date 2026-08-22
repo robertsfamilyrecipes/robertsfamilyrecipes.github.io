@@ -1,6 +1,6 @@
 ---
 title: Chef's Salad
-photo: ../images/2026-02-27-chefs-salad.jpg
+photo: ../images/2026-07-31-chefs-salad.jpg
 serves: 4
 duration: 30 min
 tags: 
