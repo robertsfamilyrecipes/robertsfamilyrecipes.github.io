@@ -5,6 +5,7 @@ serves: 4
 duration: 30 min
 tags: 
 - main
+- salad
 createdDate: 2026-08-22
 updatedDate:
 ---
