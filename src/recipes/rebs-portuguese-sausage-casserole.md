@@ -1,48 +1,43 @@
 ---
 title: Reb's Portuguese Sausage Casserole
 photo:
-serves: 4-6
+serves: 8
 duration: 2 hour
 tags: 
 - main
 createdDate: 2025-11-23
+updatedDate: 2026-09-05
 ---
 
-Family recipe from Reb Willis.  **Amount need refinement...this makes a lot**
+Family recipe from Reb Willis.
 
 ### Ingredients
 
 * 3 tbsp olive oil
-* 3 onions
-* 225g chorizo, diced
-* 3 potatoes, peeled and chopped to 3cm cube
-* 6 tin beans (chick pea, kidney, borlotti, white)
+* 3 onions, finley chopped
+* 400g chorizo, diced
+* 2 garlic cloves, thinly sliced
+* &frac12; tsp dried thyme
+* &frac12; tsp dried basil
+* 2 bay leaves
 * 1 green pepper, chopped
 * 2 400g tin tomatoes, chopped
-* 2 garlic cloves, thinly sliced
-* &frac12; tsp dried basil
-* &frac12; tsp dried thyme
-* 2 bay leaves
-* 1 chicken stock pot
+* 6 tin beans (borlotti, chick pea, haricot), drained and rinsed
+* 3 potatoes, peeled and chopped to 3cm cube
+* 2 chicken stock pot
 * 60g panko breadcrumbs
 
 ### Method
 
 Sauté onion until golden.
 
-Add chorizo cook another 10 min.
+In separate pan fry chorizo until crisping and oil released.  Add to onions
 
-Add garlic, thyme, basil, bay and cook for another minute.
+Add garlic, thyme, basil, bay, green pepper and cook for 2 min.
 
-Add tomatoes.
+Add tomatoes, beans, potatoes, stock.  Cook low heat 20 min.
 
-Drains and rinse beans.  Add beans, potatoes, stock.
-
-Cook low heat 20 min.
-
-Add green pepper another 15 min.
-
-Top with breadcrumbs.
+Top with breadcrumbs and some olive oil.
 
 Cook in oven until brown, 1 hour, 180&deg;C fan.
 
