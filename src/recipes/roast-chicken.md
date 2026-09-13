@@ -27,7 +27,7 @@ From the [Good Housekeeping Cookery Book](https://www.amazon.co.uk/Good-Housekee
 
 Prepare the chicken.  Cut away any loose fatty bits.  Put in an oven tray and squeeze over half the lemon.  Stuff with thyme and the other half of lemon.  Drizzle with olive oil and sprinkle generously with salt and pepper.
 
-Cook on 160&deg;C for for **1 hour 15 min**.  After the first 20 min add the wine/stock.  You need 250ml total liquid, so if you have no wine just use more stock.  Baste a couple of times while cooking.  
+Cook on 160&deg;C fan for for **1 hour 15 min**.  After the first 20 min add the wine/stock.  You need 250ml total liquid, so if you have no wine just use more stock.  Baste a couple of times while cooking.  
 
 Towards the end of the cook, cut the skin between the leg and the body and baste there.  This part of the chicken takes the longest to cook.  The chicken is cooked when you prod with a fork and the juices run clear.  If you pick the chicken up and the legs fall off - it's definitely done.
 
