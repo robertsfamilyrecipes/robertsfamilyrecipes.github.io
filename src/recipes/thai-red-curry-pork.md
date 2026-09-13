@@ -1,6 +1,6 @@
 ---
 title: Thai Red Curry Pork
-photo: 
+photo: ../images/2026-08-30-thai-red-curry-pork.jpg
 serves: 4
 duration: 1 hour
 tags: 

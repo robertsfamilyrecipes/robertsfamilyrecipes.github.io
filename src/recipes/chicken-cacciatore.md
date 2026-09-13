@@ -1,14 +1,13 @@
 ---
 title: Chicken Cacciatore
-photo: 
+photo: ../images/2026-08-23-chicken-cacciatore.jpg
 serves: 4
 duration: 1 hour
 tags: 
 - main
 createdDate: 2026-09-05
-updatedDate:
+updatedDate: 2026-09-13
 ---
-
 
 ### Ingredients
 

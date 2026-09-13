@@ -1,6 +1,6 @@
 ---
 title: Fondant Potatoes
-photo: 
+photo: ../images/2026-08-23-fondant-potatoes.jpg
 serves: 4
 duration: 1 hour
 tags: 
@@ -9,10 +9,7 @@ createdDate: 2026-09-05
 updatedDate:
 ---
 
-Source: Recipe 30.  From [reddit](https://www.reddit.com/r/GifRecipes/comments/aychyf/fondant_potatoes/ehzp0yx/?st=jt479n30&sh=495304d0)
-
-Fondant potatoes are a rich side dish of potatoes browned in fat, flavoured with herbs, then cooked slowly in stock and butter in the oven. “Fondant” means “melting”.
-
+From [TheLadyEve on reddit](https://www.reddit.com/r/GifRecipes/comments/aychyf/fondant_potatoes/ehzp0yx/?st=jt479n30&sh=495304d0).  Fondant potatoes are a rich side dish of potatoes browned in fat, flavoured with herbs, then cooked slowly in stock and butter in the oven. “Fondant” means “melting”.
 
 ### Ingredients
 

@@ -1,6 +1,6 @@
 ---
 title: Reb's Portuguese Sausage Casserole
-photo:
+photo: ../images/2026-08-29-chorizo-and-bean-casserole.jpg
 serves: 8
 duration: 2 hour
 tags: 
@@ -31,7 +31,7 @@ Family recipe from Reb Willis.
 
 Sauté onion until golden.
 
-In separate pan fry chorizo until crisping and oil released.  Add to onions
+In separate pan fry chorizo until crisping and oil released.  Add to onions.
 
 Add garlic, thyme, basil, bay, green pepper and cook for 2 min.
 
