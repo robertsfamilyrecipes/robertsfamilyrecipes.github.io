@@ -9,7 +9,7 @@ createdDate: 2026-09-13
 updatedDate:
 ---
 
-From [Tastes Better from Scratch](https://tastesbetterfromscratch.com/authentic-new-orleans-style-gumbo/)
+From [Tastes Better from Scratch](https://tastesbetterfromscratch.com/authentic-new-orleans-style-gumbo/).  Serve with rice.
 
 ### Ingredients
 
@@ -43,5 +43,3 @@ Sausage.  Fry in pan, allowing fat to render, and sausage to get a bit crispy.  
 Roux.  In a large casserole dish, cook roux on medium to low heat stirring constantly for **30-45 min**.  The roux gradually darkens, and when finished should be as dark as chocolate.  Be careful not to let it burn, especially near the end.
 
 Assemble.  When the roux is ready, pour in the hot stock, whisk and bring to the boil.  Add the veg, cajun seasoning, and cook for 5 min or so.  Then add the sausage, chicken, prawns and warm though.
-
-Serve with rice.
