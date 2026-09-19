@@ -1,6 +1,6 @@
 ---
 title: Beef and Garlic Noodles
-photo: 
+photo: ../images/2026-09-17-beef-and-garlic-noodles.jpg
 serves: 4
 duration: 30 min
 tags: 
