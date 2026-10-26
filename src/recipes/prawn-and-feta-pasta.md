@@ -1,22 +1,24 @@
 ---
 title: Prawn and feta pasta
-photo:
+photo: ../images/2026-10-23-prawn-and-feta-pasta.jpg
 serves: 4
 duration: 20-25 min
 tags: 
 - main
 - pasta
 createdDate: 2026-01-25 
+updatedDate: 2026-10-26
+
 ---
 
 This recipe is from [Feasts by Sabrina Ghayour](https://www.amazon.co.uk/Feasts-Sunday-bestselling-Persiana-Sirocco-ebook/dp/B0716J1Y2X/).
 
-If you are scaling the recipe follow the proportions on the feta cheese carefully, where as the scaling on the prawns a bit high or low will be fine.
+If you are scaling the recipe follow the proportions on the feta cheese carefully.  In the picture we had forgotten to buy basil leaves :(.
 
 ### Ingredients
 
-* olive oil
 * 6 garlic cloves, thinly sliced
+* olive oil
 * 300g big prawns (cooked)
 * 1 lemon, zested
 * 25g butter
