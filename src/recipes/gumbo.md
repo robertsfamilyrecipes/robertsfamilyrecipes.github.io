@@ -9,7 +9,9 @@ createdDate: 2026-09-13
 updatedDate:
 ---
 
-From [Tastes Better from Scratch](https://tastesbetterfromscratch.com/authentic-new-orleans-style-gumbo/).  Serve with rice.
+From [Tastes Better from Scratch](https://tastesbetterfromscratch.com/authentic-new-orleans-style-gumbo/).  Serve with rice.  
+
+ToDo: [Update with deets from this video](https://youtu.be/76JXtB7JFQY?is=S1uHHg1gmat5bSlx)
 
 ### Ingredients
 
