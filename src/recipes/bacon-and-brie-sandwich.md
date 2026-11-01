@@ -1,19 +1,20 @@
 ---
 title: Bacon and Brie Sandwich
-photo: 
+photo: ../images/2026-09-25-bacon-brie-and-onion-sandwich.jpg
 serves: 2
 duration: 45 min
 tags: 
 - main
 createdDate: 2026-09-06
-updatedDate:
+updatedDate: 2026-10-24
 ---
 
+By [Alida Ryder](https://simply-delicious-food.com/crispy-bacon-brie-grilled-cheese-sandwich-caramelised-onions/)
 
 ### Ingredients
 
 * _Caramelised Onions_
-* 2 onions, sliced
+* 2 red onions, sliced
 * olive oil
 * &frac12; tsp salt
 * 2 tbsp brown sugar
